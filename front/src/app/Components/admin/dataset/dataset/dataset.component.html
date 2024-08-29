@@ -1,0 +1,8 @@
+<div class="col-md-5">
+    <div class="dataset-list-container">
+        <app-decision-dataset-list (selectdataset)="onSelectdataset($event)"></app-decision-dataset-list>
+    </div>
+</div>
+<div class="col-md-7">
+    <app-decision-dataset-detail [selecteddataset]="selecteddataset"></app-decision-dataset-detail>
+</div>

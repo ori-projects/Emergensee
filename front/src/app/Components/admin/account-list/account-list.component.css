@@ -1,0 +1,122 @@
+.list-group-item .btn {
+  padding: 5px 10px;
+  font-size: 14px;
+  border-radius: 5px;
+  margin-left: 5px;
+}
+
+.list-group-item .btn-danger {
+  background-color: #dc3545;
+  border-color: #dc3545;
+  color: #fff;
+}
+
+.list-group-item .btn-danger:hover {
+  background-color: #c82333;
+  border-color: #bd2130;
+}
+
+.list-group-item .btn-primary {
+  background-color: #007bff;
+  border-color: #007bff;
+  color: #fff;
+}
+
+.list-group-item .btn-primary:hover {
+  background-color: #0056b3;
+  border-color: #0056b3;
+}
+
+.list-group-item .btn-success {
+  background-color: #28a745;
+  border-color: #28a745;
+  color: #fff;
+}
+
+.list-group-item .btn-success:hover {
+  background-color: #218838;
+  border-color: #1e7e34;
+}
+
+.float-right {
+  float: right;
+  margin-left: 5px; /* Adjust margin if necessary */
+}
+
+
+
+
+/* Account List container */
+.account-list-container {
+  max-width: 500px;
+  margin: 0 auto;
+  padding-left: 20px; /* Adjust as needed */
+  margin-top: 55px;
+  font-family: Poppins, sans-serif; /* Ensure Poppins is loaded or change to available font */
+}
+
+h2 {
+  font-weight: bold; 
+  font-size: 30px;    
+  font-family: Poppins, sans-serif; /* Consistent font usage */
+  margin-bottom: 40px;    
+}
+
+.img-thumbnail {
+  border-radius: 50%;
+  border: 2px solid #5DBA5D;
+  width: 80px; 
+  height: 80px;
+  object-fit: cover;  
+}
+
+.sort {
+  width: 100%;
+  border-radius: 5px;
+  border: 2px solid #5DBA5D;
+  box-sizing: border-box; /* Ensures padding does not affect width */
+}
+
+.list-group-item-heading {
+  font-weight: bold; /* Makes the text bold */
+  font-size: 17px; /* Optional: Adjust the font size as needed */
+  color: #333; /* Optional: Adjust the color to improve readability */
+}
+
+.list-group-item {
+  position: relative;
+  /* border-radius: 10px; */
+  margin-bottom: 15px;
+  padding-bottom: 5px;
+  background-color: #f5f5f5;
+  /* transition: background-color 0.3s ease; */
+  border: 0px;
+}
+
+.list-group-item::after {
+  content: '';
+  /* position: absolute; */
+  bottom: 0;
+  left: 0;
+  width: 0;
+  height: 2px;
+  background-color: #5DBA5D;  /* Green line */
+  transition: width 0.3s ease-in-out;
+}
+
+.list-group-item:hover::after,
+.list-group-item.selected::after {  /* Apply same style on hover and selected */
+  width: 100%;  /* Extend the green line across the whole width */
+}
+
+.list-group-item:hover {
+  background-color: #e0e0e0;  
+}
+
+/* Responsive adjustments as needed */
+@media (max-width: 600px) {
+  .account-list-container {
+      max-width: 100%;
+      padding-left: 10px;
+  }
+}

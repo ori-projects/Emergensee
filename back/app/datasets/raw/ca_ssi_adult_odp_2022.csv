@@ -1,0 +1,3001 @@
+Operative_Procedure,Procedure_Count,Infections_Reported,Infections_Predicted,SIR
+Cesarean section,7,8,18,Low
+Hysterectomy,8,19,29,Mid
+Hip replacement,5,6,27,Mid
+Knee arthroscopy,4,1,34,High
+Cesarean section,5,21,42,High
+Prostatectomy,10,23,10,High
+Hernia repair,1,27,30,High
+Cesarean section,3,22,48,High
+Hip replacement,2,6,47,High
+Knee arthroscopy,6,7,38,High
+Hysterectomy,8,6,35,High
+Hip replacement,4,20,29,High
+Hip replacement,5,22,22,High
+Hernia repair,9,28,18,High
+Cataract surgery,1,13,11,Mid
+Knee arthroscopy,2,25,14,High
+Cholecystectomy,2,18,30,High
+Hip replacement,8,4,42,High
+Cataract surgery,6,22,36,High
+Cholecystectomy,7,30,36,High
+Knee arthroscopy,10,24,14,High
+Appendectomy,9,30,28,High
+Prostatectomy,10,17,49,High
+Cataract surgery,8,19,42,High
+Coronary artery bypass graft (CABG),5,11,25,Mid
+Appendectomy,3,22,43,High
+Prostatectomy,0,16,1,Mid
+Hernia repair,7,12,19,Mid
+Cesarean section,6,1,14,Low
+Hysterectomy,1,24,3,High
+Coronary artery bypass graft (CABG),7,12,21,Mid
+Hernia repair,4,25,49,High
+Knee arthroscopy,6,6,37,High
+Hernia repair,3,27,22,High
+Cesarean section,4,9,25,Mid
+Knee arthroscopy,7,22,50,High
+Coronary artery bypass graft (CABG),0,5,10,Low
+Cesarean section,0,2,27,Mid
+Cholecystectomy,3,25,1,High
+Hysterectomy,2,2,7,Low
+Coronary artery bypass graft (CABG),9,17,28,Mid
+Cholecystectomy,1,10,10,Mid
+Prostatectomy,2,21,36,High
+Coronary artery bypass graft (CABG),10,19,17,Mid
+Prostatectomy,10,4,49,High
+Knee arthroscopy,10,18,13,Mid
+Cholecystectomy,0,21,9,High
+Hysterectomy,0,26,34,High
+Cesarean section,5,27,8,High
+Hip replacement,4,18,34,High
+Hernia repair,7,29,10,High
+Appendectomy,1,14,43,High
+Hysterectomy,3,29,11,High
+Cholecystectomy,7,15,2,Mid
+Hip replacement,5,23,38,High
+Hysterectomy,0,8,13,Low
+Cholecystectomy,3,3,27,Mid
+Cataract surgery,0,14,10,Mid
+Cataract surgery,1,24,38,High
+Prostatectomy,4,11,24,Mid
+Hysterectomy,7,22,20,High
+Cataract surgery,7,2,9,Low
+Cholecystectomy,10,22,42,High
+Prostatectomy,2,13,14,Mid
+Cholecystectomy,10,16,18,Mid
+Prostatectomy,3,18,47,High
+Hysterectomy,9,5,21,Mid
+Hip replacement,10,3,20,Mid
+Cesarean section,5,6,43,High
+Coronary artery bypass graft (CABG),10,29,31,High
+Hip replacement,10,18,49,High
+Knee arthroscopy,9,16,22,Mid
+Cholecystectomy,2,24,12,High
+Knee arthroscopy,1,15,4,Mid
+Hip replacement,5,14,3,Mid
+Prostatectomy,10,21,27,High
+Coronary artery bypass graft (CABG),4,7,13,Low
+Coronary artery bypass graft (CABG),9,18,7,Mid
+Appendectomy,4,7,8,Low
+Coronary artery bypass graft (CABG),9,17,50,High
+Cesarean section,4,27,34,High
+Coronary artery bypass graft (CABG),9,15,36,High
+Hip replacement,4,19,20,Mid
+Appendectomy,2,18,17,Mid
+Hip replacement,6,9,32,High
+Hip replacement,5,16,7,Mid
+Hernia repair,3,30,50,High
+Appendectomy,1,12,48,High
+Hip replacement,8,12,16,Mid
+Hernia repair,0,6,42,High
+Hernia repair,10,26,30,High
+Appendectomy,3,9,33,High
+Knee arthroscopy,0,1,5,Low
+Prostatectomy,5,3,21,Mid
+Cesarean section,3,24,13,High
+Prostatectomy,4,5,2,Low
+Coronary artery bypass graft (CABG),4,23,11,High
+Cesarean section,8,17,35,High
+Coronary artery bypass graft (CABG),0,22,11,High
+Hip replacement,1,5,44,High
+Cholecystectomy,5,28,1,High
+Appendectomy,4,29,1,High
+Cesarean section,10,24,14,High
+Cesarean section,6,22,22,High
+Hip replacement,2,16,28,Mid
+Knee arthroscopy,2,13,16,Mid
+Hernia repair,9,23,31,High
+Hip replacement,1,10,6,Mid
+Cataract surgery,2,25,29,High
+Hernia repair,9,30,27,High
+Appendectomy,0,18,13,Mid
+Hernia repair,4,29,43,High
+Knee arthroscopy,4,1,29,Mid
+Hernia repair,10,27,16,High
+Appendectomy,6,2,31,High
+Knee arthroscopy,3,10,45,High
+Prostatectomy,2,5,5,Low
+Cesarean section,0,28,50,High
+Cesarean section,7,13,23,Mid
+Coronary artery bypass graft (CABG),2,18,5,Mid
+Prostatectomy,1,25,26,High
+Prostatectomy,10,15,17,Mid
+Hernia repair,3,20,23,High
+Cesarean section,2,21,36,High
+Appendectomy,0,23,23,High
+Hysterectomy,2,6,37,High
+Hysterectomy,1,29,33,High
+Knee arthroscopy,7,26,39,High
+Cesarean section,5,7,46,High
+Cesarean section,8,18,14,Mid
+Hysterectomy,7,19,10,Mid
+Cesarean section,9,15,21,Mid
+Hernia repair,2,21,23,High
+Cataract surgery,4,26,0,High
+Cholecystectomy,6,6,17,Low
+Prostatectomy,4,8,43,High
+Coronary artery bypass graft (CABG),7,12,11,Mid
+Knee arthroscopy,4,0,42,High
+Cataract surgery,0,28,27,High
+Hysterectomy,4,30,39,High
+Prostatectomy,3,7,6,Low
+Cesarean section,5,23,22,High
+Coronary artery bypass graft (CABG),2,21,20,High
+Cesarean section,10,3,33,High
+Appendectomy,4,2,10,Low
+Appendectomy,1,26,21,High
+Coronary artery bypass graft (CABG),10,2,41,High
+Coronary artery bypass graft (CABG),5,21,34,High
+Hysterectomy,5,12,28,Mid
+Coronary artery bypass graft (CABG),4,7,41,High
+Hernia repair,5,6,27,Mid
+Cesarean section,10,26,17,High
+Cataract surgery,6,0,13,Low
+Hip replacement,4,26,17,High
+Coronary artery bypass graft (CABG),0,15,27,Mid
+Knee arthroscopy,7,5,23,Mid
+Appendectomy,3,6,7,Low
+Hernia repair,8,11,41,High
+Prostatectomy,9,22,44,High
+Hip replacement,5,8,7,Low
+Cataract surgery,0,26,3,High
+Hip replacement,2,10,26,Mid
+Coronary artery bypass graft (CABG),2,9,35,High
+Hysterectomy,9,20,4,High
+Appendectomy,3,0,32,High
+Appendectomy,5,17,48,High
+Prostatectomy,6,30,33,High
+Hysterectomy,9,3,29,Mid
+Cesarean section,3,4,7,Low
+Cholecystectomy,5,8,38,High
+Hernia repair,10,26,46,High
+Appendectomy,0,30,25,High
+Knee arthroscopy,7,16,36,High
+Appendectomy,6,2,33,High
+Hip replacement,10,15,6,Mid
+Appendectomy,10,4,39,High
+Appendectomy,8,15,27,Mid
+Cholecystectomy,2,2,38,High
+Cholecystectomy,1,19,38,High
+Cataract surgery,0,14,27,Mid
+Cesarean section,2,29,13,High
+Knee arthroscopy,4,2,49,High
+Appendectomy,10,19,37,High
+Appendectomy,1,13,3,Mid
+Hernia repair,2,30,41,High
+Cholecystectomy,3,15,17,Mid
+Knee arthroscopy,6,28,43,High
+Prostatectomy,2,28,47,High
+Cataract surgery,8,30,24,High
+Cesarean section,7,30,6,High
+Hysterectomy,3,16,37,High
+Cesarean section,0,27,27,High
+Hip replacement,0,23,4,High
+Appendectomy,0,19,2,Mid
+Cataract surgery,0,22,43,High
+Hip replacement,7,17,30,High
+Knee arthroscopy,2,17,46,High
+Hysterectomy,5,21,41,High
+Cholecystectomy,2,13,19,Mid
+Cataract surgery,10,17,18,Mid
+Cataract surgery,4,14,47,High
+Appendectomy,6,14,10,Mid
+Coronary artery bypass graft (CABG),1,5,39,High
+Cataract surgery,5,26,2,High
+Hernia repair,5,14,22,Mid
+Hysterectomy,10,17,6,Mid
+Hysterectomy,2,3,22,Mid
+Hernia repair,5,22,6,High
+Prostatectomy,9,7,45,High
+Hernia repair,9,14,33,High
+Hernia repair,4,2,41,High
+Hysterectomy,1,29,18,High
+Cesarean section,8,14,8,Mid
+Hysterectomy,7,12,47,High
+Coronary artery bypass graft (CABG),2,8,50,High
+Appendectomy,7,1,17,Low
+Hip replacement,8,23,40,High
+Cesarean section,2,7,47,High
+Cholecystectomy,2,28,44,High
+Hip replacement,1,29,41,High
+Appendectomy,7,19,24,Mid
+Coronary artery bypass graft (CABG),9,16,13,Mid
+Coronary artery bypass graft (CABG),0,12,43,High
+Cholecystectomy,7,0,24,Mid
+Cesarean section,6,1,18,Low
+Prostatectomy,6,29,38,High
+Hernia repair,2,14,14,Mid
+Cesarean section,0,11,15,Mid
+Prostatectomy,3,13,26,Mid
+Coronary artery bypass graft (CABG),8,24,39,High
+Hysterectomy,4,28,9,High
+Appendectomy,0,1,3,Low
+Cholecystectomy,4,17,50,High
+Appendectomy,7,21,18,High
+Knee arthroscopy,7,6,27,Mid
+Knee arthroscopy,4,28,20,High
+Cesarean section,8,22,46,High
+Coronary artery bypass graft (CABG),0,30,13,High
+Coronary artery bypass graft (CABG),3,28,32,High
+Hernia repair,2,24,47,High
+Hernia repair,1,5,9,Low
+Hernia repair,7,13,18,Mid
+Hysterectomy,6,7,29,Mid
+Hip replacement,8,26,21,High
+Cataract surgery,1,21,2,High
+Hip replacement,3,1,36,High
+Appendectomy,5,16,40,High
+Hip replacement,10,4,17,Low
+Hysterectomy,2,13,10,Mid
+Appendectomy,7,24,47,High
+Hip replacement,2,23,1,High
+Hysterectomy,1,29,11,High
+Cataract surgery,2,28,5,High
+Hip replacement,10,19,42,High
+Hysterectomy,5,20,39,High
+Hernia repair,1,28,43,High
+Coronary artery bypass graft (CABG),7,20,28,High
+Hernia repair,0,21,29,High
+Coronary artery bypass graft (CABG),6,2,1,Low
+Cholecystectomy,1,4,8,Low
+Cholecystectomy,9,15,46,High
+Cholecystectomy,5,17,1,Mid
+Cataract surgery,1,25,28,High
+Hernia repair,1,16,32,High
+Coronary artery bypass graft (CABG),9,10,9,Mid
+Hysterectomy,7,16,33,High
+Appendectomy,1,15,43,High
+Hysterectomy,6,25,7,High
+Appendectomy,2,22,36,High
+Knee arthroscopy,7,1,32,High
+Hysterectomy,6,3,46,High
+Hip replacement,7,20,5,High
+Hip replacement,6,6,43,High
+Cesarean section,10,1,39,High
+Hernia repair,5,29,44,High
+Appendectomy,6,5,18,Low
+Appendectomy,4,16,31,High
+Hernia repair,6,6,26,Mid
+Cataract surgery,0,24,0,High
+Cesarean section,0,4,42,High
+Cataract surgery,8,4,32,High
+Cataract surgery,4,19,39,High
+Cataract surgery,4,15,31,High
+Hernia repair,2,18,4,Mid
+Cataract surgery,4,8,16,Low
+Hip replacement,2,4,7,Low
+Cholecystectomy,8,7,41,High
+Knee arthroscopy,8,8,33,High
+Appendectomy,5,4,8,Low
+Appendectomy,0,9,22,Mid
+Knee arthroscopy,6,24,34,High
+Hernia repair,6,1,49,High
+Hysterectomy,9,8,6,Low
+Hernia repair,9,10,14,Mid
+Appendectomy,3,3,19,Low
+Appendectomy,7,21,49,High
+Knee arthroscopy,5,21,24,High
+Cataract surgery,3,21,2,High
+Hernia repair,3,1,45,High
+Coronary artery bypass graft (CABG),1,22,23,High
+Knee arthroscopy,1,28,33,High
+Hip replacement,3,5,45,High
+Appendectomy,4,26,21,High
+Knee arthroscopy,7,13,10,Mid
+Hernia repair,5,0,47,High
+Appendectomy,3,17,7,Mid
+Hysterectomy,10,6,38,High
+Knee arthroscopy,6,0,42,High
+Cesarean section,7,30,34,High
+Appendectomy,1,0,48,High
+Hernia repair,6,0,45,High
+Cholecystectomy,1,23,37,High
+Coronary artery bypass graft (CABG),1,3,7,Low
+Prostatectomy,7,3,36,High
+Cataract surgery,1,28,26,High
+Prostatectomy,10,17,27,Mid
+Hernia repair,8,26,39,High
+Hip replacement,0,10,33,High
+Hip replacement,8,26,31,High
+Cholecystectomy,0,0,14,Low
+Cataract surgery,9,27,43,High
+Cesarean section,9,9,16,Low
+Cholecystectomy,1,8,32,High
+Prostatectomy,5,22,46,High
+Cholecystectomy,5,3,45,High
+Prostatectomy,0,27,15,High
+Appendectomy,6,5,28,Mid
+Hip replacement,7,29,8,High
+Appendectomy,1,15,32,High
+Coronary artery bypass graft (CABG),7,1,48,High
+Cataract surgery,8,22,28,High
+Cesarean section,5,17,12,Mid
+Prostatectomy,4,9,20,Mid
+Cesarean section,8,23,20,High
+Prostatectomy,10,23,4,High
+Hernia repair,8,16,9,Mid
+Cholecystectomy,0,12,5,Mid
+Coronary artery bypass graft (CABG),10,23,50,High
+Hip replacement,2,17,12,Mid
+Prostatectomy,8,21,0,High
+Cesarean section,10,12,19,Mid
+Coronary artery bypass graft (CABG),1,16,46,High
+Hysterectomy,3,4,45,High
+Hysterectomy,3,10,7,Mid
+Appendectomy,1,6,9,Low
+Hip replacement,2,28,8,High
+Hernia repair,2,9,48,High
+Cesarean section,0,16,40,High
+Cholecystectomy,5,14,2,Mid
+Cholecystectomy,7,17,10,Mid
+Cesarean section,2,22,11,High
+Cataract surgery,4,21,9,High
+Hernia repair,0,18,24,Mid
+Coronary artery bypass graft (CABG),9,29,48,High
+Prostatectomy,6,25,48,High
+Cataract surgery,9,1,24,Mid
+Prostatectomy,0,25,10,High
+Prostatectomy,10,3,35,High
+Cataract surgery,8,2,38,High
+Appendectomy,7,6,25,Mid
+Hysterectomy,6,23,13,High
+Prostatectomy,9,17,38,High
+Cataract surgery,6,9,39,High
+Cataract surgery,4,6,0,Low
+Knee arthroscopy,4,7,3,Low
+Appendectomy,10,5,29,Mid
+Hip replacement,4,21,11,High
+Knee arthroscopy,0,25,34,High
+Knee arthroscopy,7,0,12,Low
+Cesarean section,10,3,30,High
+Hysterectomy,0,13,37,High
+Cataract surgery,3,16,42,High
+Hysterectomy,8,19,22,Mid
+Hernia repair,8,17,3,Mid
+Cesarean section,4,10,15,Mid
+Hip replacement,3,28,6,High
+Hysterectomy,2,20,21,High
+Cholecystectomy,2,25,28,High
+Prostatectomy,4,13,10,Mid
+Hernia repair,9,8,32,High
+Appendectomy,0,26,28,High
+Hip replacement,4,14,38,High
+Hernia repair,5,11,11,Mid
+Prostatectomy,6,9,6,Low
+Cesarean section,8,18,38,High
+Prostatectomy,2,23,41,High
+Knee arthroscopy,1,18,47,High
+Prostatectomy,2,5,25,Mid
+Knee arthroscopy,8,19,39,High
+Cesarean section,6,23,8,High
+Coronary artery bypass graft (CABG),8,26,40,High
+Knee arthroscopy,1,5,33,High
+Appendectomy,4,7,44,High
+Prostatectomy,3,0,12,Low
+Prostatectomy,1,21,35,High
+Appendectomy,8,16,24,Mid
+Cholecystectomy,8,16,23,Mid
+Cataract surgery,5,23,43,High
+Coronary artery bypass graft (CABG),10,14,16,Mid
+Hip replacement,5,6,1,Low
+Knee arthroscopy,7,18,12,Mid
+Appendectomy,5,21,30,High
+Cesarean section,0,30,28,High
+Knee arthroscopy,3,24,49,High
+Cataract surgery,6,22,27,High
+Cesarean section,1,27,26,High
+Hernia repair,8,2,14,Low
+Prostatectomy,7,29,30,High
+Hernia repair,7,29,39,High
+Knee arthroscopy,6,28,14,High
+Cataract surgery,3,21,32,High
+Coronary artery bypass graft (CABG),1,10,19,Mid
+Knee arthroscopy,2,19,41,High
+Appendectomy,5,29,11,High
+Hysterectomy,4,28,36,High
+Knee arthroscopy,7,18,8,Mid
+Prostatectomy,5,8,22,Mid
+Prostatectomy,5,9,7,Low
+Knee arthroscopy,0,1,31,High
+Cesarean section,3,0,47,High
+Hysterectomy,4,30,13,High
+Appendectomy,10,29,26,High
+Knee arthroscopy,2,15,24,Mid
+Cesarean section,8,17,12,Mid
+Prostatectomy,0,22,20,High
+Prostatectomy,5,25,44,High
+Cataract surgery,5,16,30,High
+Knee arthroscopy,9,5,36,High
+Hysterectomy,4,13,47,High
+Cholecystectomy,4,22,42,High
+Hysterectomy,9,24,4,High
+Prostatectomy,4,14,12,Mid
+Prostatectomy,5,13,27,Mid
+Hernia repair,7,23,42,High
+Prostatectomy,1,21,24,High
+Appendectomy,5,2,50,High
+Hip replacement,0,23,34,High
+Knee arthroscopy,3,22,46,High
+Hysterectomy,9,18,38,High
+Hip replacement,2,24,6,High
+Cesarean section,8,11,37,High
+Cholecystectomy,2,1,31,High
+Appendectomy,5,2,2,Low
+Hysterectomy,0,17,44,High
+Hip replacement,5,28,38,High
+Cholecystectomy,3,0,36,High
+Hernia repair,7,19,49,High
+Appendectomy,10,20,21,High
+Appendectomy,8,28,7,High
+Hernia repair,3,5,16,Low
+Knee arthroscopy,9,4,26,Mid
+Hernia repair,9,0,32,High
+Appendectomy,5,18,45,High
+Appendectomy,0,0,16,Low
+Hip replacement,3,26,41,High
+Prostatectomy,6,20,11,High
+Cholecystectomy,0,20,47,High
+Hernia repair,7,15,45,High
+Cholecystectomy,9,11,26,Mid
+Hernia repair,10,26,47,High
+Cesarean section,5,28,7,High
+Appendectomy,4,21,22,High
+Prostatectomy,9,7,41,High
+Hip replacement,10,25,48,High
+Prostatectomy,8,15,28,Mid
+Prostatectomy,1,27,49,High
+Prostatectomy,4,0,19,Low
+Cholecystectomy,5,3,15,Low
+Hernia repair,6,9,16,Low
+Coronary artery bypass graft (CABG),4,10,15,Mid
+Cesarean section,8,16,18,Mid
+Hysterectomy,0,24,7,High
+Prostatectomy,6,26,37,High
+Knee arthroscopy,9,22,37,High
+Cholecystectomy,6,6,28,Mid
+Hip replacement,3,11,40,High
+Hysterectomy,8,20,35,High
+Coronary artery bypass graft (CABG),10,6,25,Mid
+Knee arthroscopy,4,11,30,High
+Coronary artery bypass graft (CABG),3,14,43,High
+Hysterectomy,6,1,11,Low
+Prostatectomy,3,13,16,Mid
+Knee arthroscopy,2,12,14,Mid
+Coronary artery bypass graft (CABG),8,3,8,Low
+Hip replacement,10,13,38,High
+Hernia repair,7,13,41,High
+Appendectomy,0,15,47,High
+Hernia repair,6,6,11,Low
+Hysterectomy,8,18,31,High
+Cholecystectomy,7,1,24,Mid
+Appendectomy,7,9,38,High
+Cesarean section,5,17,17,Mid
+Hip replacement,10,28,14,High
+Cesarean section,3,16,31,High
+Knee arthroscopy,7,4,5,Low
+Appendectomy,2,11,43,High
+Cesarean section,8,5,42,High
+Cesarean section,1,21,34,High
+Coronary artery bypass graft (CABG),1,8,33,High
+Hernia repair,6,19,37,High
+Coronary artery bypass graft (CABG),9,0,4,Low
+Appendectomy,3,21,17,High
+Appendectomy,9,14,15,Mid
+Hysterectomy,7,20,7,High
+Coronary artery bypass graft (CABG),8,25,24,High
+Cataract surgery,6,5,31,High
+Hernia repair,4,18,25,Mid
+Appendectomy,7,17,21,Mid
+Hysterectomy,3,5,30,High
+Coronary artery bypass graft (CABG),1,12,42,High
+Hernia repair,10,0,9,Low
+Coronary artery bypass graft (CABG),5,22,11,High
+Cesarean section,8,22,27,High
+Hysterectomy,0,25,5,High
+Hernia repair,10,12,19,Mid
+Prostatectomy,9,6,4,Low
+Knee arthroscopy,6,14,22,Mid
+Knee arthroscopy,9,11,8,Mid
+Hernia repair,8,26,28,High
+Coronary artery bypass graft (CABG),9,25,15,High
+Hysterectomy,8,0,45,High
+Knee arthroscopy,9,14,21,Mid
+Hysterectomy,10,3,7,Low
+Knee arthroscopy,2,12,19,Mid
+Cesarean section,10,22,50,High
+Coronary artery bypass graft (CABG),4,26,13,High
+Cesarean section,7,24,38,High
+Knee arthroscopy,7,4,36,High
+Prostatectomy,3,28,49,High
+Prostatectomy,10,1,33,High
+Cesarean section,10,22,10,High
+Prostatectomy,0,25,39,High
+Knee arthroscopy,0,0,32,High
+Hernia repair,3,15,30,High
+Cesarean section,5,22,43,High
+Cholecystectomy,7,5,33,High
+Coronary artery bypass graft (CABG),5,22,49,High
+Prostatectomy,8,15,6,Mid
+Prostatectomy,8,13,48,High
+Appendectomy,1,28,22,High
+Cataract surgery,9,25,45,High
+Cesarean section,0,2,6,Low
+Hip replacement,1,14,24,Mid
+Prostatectomy,4,2,2,Low
+Coronary artery bypass graft (CABG),3,22,37,High
+Cholecystectomy,3,28,19,High
+Prostatectomy,8,1,33,High
+Cholecystectomy,10,0,48,High
+Knee arthroscopy,7,8,43,High
+Knee arthroscopy,5,8,43,High
+Cataract surgery,0,22,29,High
+Hernia repair,1,6,16,Low
+Hip replacement,5,2,9,Low
+Appendectomy,10,25,34,High
+Cataract surgery,1,30,19,High
+Hysterectomy,9,17,17,Mid
+Appendectomy,4,10,44,High
+Cesarean section,4,6,43,High
+Coronary artery bypass graft (CABG),5,8,26,Mid
+Hysterectomy,5,0,48,High
+Hysterectomy,5,28,35,High
+Cataract surgery,1,13,22,Mid
+Hernia repair,9,19,31,High
+Cataract surgery,2,5,9,Low
+Cesarean section,5,6,10,Low
+Prostatectomy,7,9,37,High
+Prostatectomy,10,6,5,Low
+Hernia repair,0,25,40,High
+Cesarean section,0,1,46,High
+Hernia repair,10,29,33,High
+Cholecystectomy,1,3,35,High
+Prostatectomy,10,20,36,High
+Hysterectomy,5,29,16,High
+Hip replacement,8,27,39,High
+Coronary artery bypass graft (CABG),3,16,39,High
+Cesarean section,2,0,11,Low
+Appendectomy,7,9,20,Mid
+Hernia repair,10,18,39,High
+Coronary artery bypass graft (CABG),9,30,18,High
+Appendectomy,8,14,2,Mid
+Coronary artery bypass graft (CABG),10,9,17,Low
+Hip replacement,4,18,50,High
+Appendectomy,8,11,18,Mid
+Cataract surgery,1,23,46,High
+Knee arthroscopy,2,15,5,Mid
+Cataract surgery,6,8,15,Low
+Prostatectomy,6,14,7,Mid
+Knee arthroscopy,5,29,47,High
+Cataract surgery,5,26,17,High
+Knee arthroscopy,1,27,47,High
+Knee arthroscopy,9,16,42,High
+Hysterectomy,5,13,38,High
+Hernia repair,3,26,48,High
+Hernia repair,2,17,48,High
+Hysterectomy,10,25,11,High
+Coronary artery bypass graft (CABG),1,1,44,High
+Cholecystectomy,0,30,9,High
+Coronary artery bypass graft (CABG),10,3,6,Low
+Appendectomy,10,17,45,High
+Appendectomy,4,6,0,Low
+Knee arthroscopy,1,12,48,High
+Cataract surgery,1,14,35,High
+Cataract surgery,6,24,20,High
+Hernia repair,7,22,36,High
+Cesarean section,9,27,23,High
+Coronary artery bypass graft (CABG),7,21,24,High
+Prostatectomy,3,30,6,High
+Hip replacement,0,25,41,High
+Cataract surgery,10,0,16,Low
+Hip replacement,6,10,28,Mid
+Knee arthroscopy,0,9,29,Mid
+Hip replacement,10,24,6,High
+Prostatectomy,3,4,32,High
+Hysterectomy,7,15,6,Mid
+Prostatectomy,1,10,23,Mid
+Hip replacement,5,20,10,High
+Prostatectomy,5,5,8,Low
+Cholecystectomy,8,8,11,Low
+Knee arthroscopy,4,12,34,High
+Coronary artery bypass graft (CABG),9,23,3,High
+Hysterectomy,3,7,35,High
+Cataract surgery,4,13,27,Mid
+Appendectomy,9,23,12,High
+Coronary artery bypass graft (CABG),10,0,22,Mid
+Appendectomy,4,16,18,Mid
+Knee arthroscopy,7,23,41,High
+Hysterectomy,9,4,36,High
+Hernia repair,7,24,38,High
+Cataract surgery,1,1,23,Mid
+Cholecystectomy,6,24,15,High
+Hernia repair,7,27,32,High
+Knee arthroscopy,10,29,11,High
+Coronary artery bypass graft (CABG),5,23,33,High
+Cholecystectomy,4,8,6,Low
+Prostatectomy,10,3,10,Low
+Hip replacement,8,16,30,High
+Cholecystectomy,2,16,28,Mid
+Knee arthroscopy,9,20,12,High
+Cesarean section,3,17,30,High
+Hip replacement,8,15,1,Mid
+Appendectomy,5,29,38,High
+Cataract surgery,7,7,14,Low
+Appendectomy,6,25,10,High
+Cholecystectomy,10,10,33,High
+Appendectomy,1,20,38,High
+Knee arthroscopy,2,20,3,High
+Prostatectomy,0,17,10,Mid
+Coronary artery bypass graft (CABG),8,22,28,High
+Cataract surgery,6,28,1,High
+Appendectomy,0,23,15,High
+Appendectomy,2,9,38,High
+Cholecystectomy,3,12,12,Mid
+Coronary artery bypass graft (CABG),3,16,36,High
+Hernia repair,4,17,16,Mid
+Appendectomy,2,9,20,Mid
+Knee arthroscopy,2,15,43,High
+Cesarean section,0,19,18,Mid
+Cataract surgery,6,4,6,Low
+Appendectomy,10,12,37,High
+Knee arthroscopy,9,17,7,Mid
+Knee arthroscopy,0,16,12,Mid
+Cataract surgery,1,8,36,High
+Hernia repair,3,13,1,Mid
+Knee arthroscopy,3,16,40,High
+Cesarean section,4,28,10,High
+Knee arthroscopy,10,30,23,High
+Knee arthroscopy,1,3,5,Low
+Knee arthroscopy,3,17,25,Mid
+Prostatectomy,0,26,6,High
+Prostatectomy,1,19,38,High
+Hernia repair,0,23,18,High
+Appendectomy,9,23,5,High
+Knee arthroscopy,9,14,42,High
+Coronary artery bypass graft (CABG),3,10,28,Mid
+Appendectomy,3,11,42,High
+Hernia repair,6,8,38,High
+Hysterectomy,9,12,1,Mid
+Appendectomy,10,14,18,Mid
+Appendectomy,10,26,3,High
+Hip replacement,8,14,5,Mid
+Cholecystectomy,8,27,48,High
+Hip replacement,4,4,36,High
+Cesarean section,9,22,27,High
+Prostatectomy,0,18,29,Mid
+Prostatectomy,0,25,6,High
+Cholecystectomy,5,19,8,Mid
+Cataract surgery,1,25,24,High
+Cataract surgery,7,24,32,High
+Hernia repair,8,25,0,High
+Cholecystectomy,3,25,50,High
+Appendectomy,4,13,5,Mid
+Cataract surgery,10,27,17,High
+Knee arthroscopy,7,16,9,Mid
+Coronary artery bypass graft (CABG),2,17,27,Mid
+Appendectomy,4,20,10,High
+Cesarean section,2,2,32,High
+Knee arthroscopy,9,1,0,Low
+Knee arthroscopy,2,0,12,Low
+Cholecystectomy,2,9,36,High
+Hernia repair,6,18,19,Mid
+Cesarean section,6,16,0,Mid
+Cataract surgery,6,11,2,Mid
+Cholecystectomy,9,0,17,Low
+Cataract surgery,7,11,40,High
+Cholecystectomy,4,16,13,Mid
+Cholecystectomy,4,23,30,High
+Cholecystectomy,3,30,26,High
+Hernia repair,6,2,16,Low
+Cholecystectomy,9,10,45,High
+Hysterectomy,3,16,28,Mid
+Coronary artery bypass graft (CABG),1,22,35,High
+Cataract surgery,3,25,36,High
+Appendectomy,7,2,25,Mid
+Hip replacement,8,7,16,Low
+Cesarean section,2,19,21,Mid
+Prostatectomy,6,3,24,Mid
+Hernia repair,8,20,1,High
+Appendectomy,10,21,21,High
+Knee arthroscopy,3,6,4,Low
+Hysterectomy,9,13,3,Mid
+Prostatectomy,2,13,35,High
+Hip replacement,4,3,5,Low
+Appendectomy,0,15,20,Mid
+Prostatectomy,2,23,12,High
+Appendectomy,7,28,36,High
+Hysterectomy,10,21,24,High
+Hip replacement,7,29,25,High
+Knee arthroscopy,3,0,38,High
+Cholecystectomy,1,16,19,Mid
+Cataract surgery,7,24,32,High
+Knee arthroscopy,7,9,13,Low
+Cholecystectomy,9,21,35,High
+Hernia repair,3,15,16,Mid
+Coronary artery bypass graft (CABG),2,15,20,Mid
+Cesarean section,1,25,45,High
+Cesarean section,8,7,15,Low
+Cataract surgery,0,28,45,High
+Hip replacement,6,6,15,Low
+Hysterectomy,4,27,19,High
+Hip replacement,7,5,28,Mid
+Hysterectomy,3,15,27,Mid
+Hip replacement,6,19,7,Mid
+Coronary artery bypass graft (CABG),4,15,23,Mid
+Hernia repair,4,6,2,Low
+Hernia repair,8,8,24,Mid
+Cholecystectomy,8,13,18,Mid
+Prostatectomy,8,10,32,High
+Hernia repair,5,25,1,High
+Hernia repair,5,25,14,High
+Knee arthroscopy,4,13,21,Mid
+Knee arthroscopy,8,6,9,Low
+Cholecystectomy,9,0,17,Low
+Prostatectomy,7,25,21,High
+Cataract surgery,6,24,45,High
+Knee arthroscopy,6,12,48,High
+Cataract surgery,5,19,26,Mid
+Appendectomy,4,30,12,High
+Knee arthroscopy,3,2,32,High
+Coronary artery bypass graft (CABG),2,19,4,Mid
+Prostatectomy,2,3,25,Mid
+Cholecystectomy,5,28,12,High
+Appendectomy,3,25,26,High
+Prostatectomy,5,10,13,Mid
+Coronary artery bypass graft (CABG),2,1,23,Mid
+Prostatectomy,3,13,2,Mid
+Coronary artery bypass graft (CABG),8,11,46,High
+Coronary artery bypass graft (CABG),4,29,50,High
+Cataract surgery,6,16,48,High
+Hip replacement,9,11,29,Mid
+Appendectomy,1,25,34,High
+Prostatectomy,4,11,47,High
+Hysterectomy,8,0,13,Low
+Appendectomy,10,12,11,Mid
+Hip replacement,2,13,27,Mid
+Appendectomy,8,23,43,High
+Hernia repair,10,29,28,High
+Hysterectomy,5,1,42,High
+Hip replacement,3,11,16,Mid
+Cataract surgery,6,25,39,High
+Prostatectomy,7,20,48,High
+Cesarean section,5,27,20,High
+Hip replacement,4,15,22,Mid
+Cholecystectomy,5,3,19,Low
+Prostatectomy,4,7,10,Low
+Hip replacement,7,1,33,High
+Hernia repair,0,9,9,Low
+Cesarean section,10,8,9,Low
+Hernia repair,6,22,42,High
+Cesarean section,9,14,5,Mid
+Cholecystectomy,9,12,35,High
+Prostatectomy,10,22,23,High
+Cataract surgery,1,16,11,Mid
+Hernia repair,8,29,42,High
+Hernia repair,0,15,22,Mid
+Coronary artery bypass graft (CABG),10,27,26,High
+Cesarean section,9,1,44,High
+Knee arthroscopy,5,19,36,High
+Prostatectomy,8,19,5,Mid
+Cesarean section,0,26,0,High
+Coronary artery bypass graft (CABG),3,13,5,Mid
+Appendectomy,3,2,49,High
+Cesarean section,8,22,21,High
+Cataract surgery,10,11,40,High
+Prostatectomy,4,7,23,Mid
+Coronary artery bypass graft (CABG),4,1,24,Mid
+Appendectomy,5,3,14,Low
+Hysterectomy,0,13,25,Mid
+Coronary artery bypass graft (CABG),0,15,7,Mid
+Hysterectomy,8,18,50,High
+Prostatectomy,2,1,23,Mid
+Hernia repair,3,11,47,High
+Coronary artery bypass graft (CABG),0,28,37,High
+Cholecystectomy,8,13,5,Mid
+Hysterectomy,7,5,34,High
+Cataract surgery,1,12,41,High
+Cholecystectomy,7,3,0,Low
+Hip replacement,6,21,45,High
+Hip replacement,10,17,35,High
+Appendectomy,5,11,11,Mid
+Hernia repair,0,19,37,High
+Prostatectomy,6,26,10,High
+Coronary artery bypass graft (CABG),9,21,11,High
+Knee arthroscopy,6,29,41,High
+Cataract surgery,8,20,49,High
+Hysterectomy,0,18,38,High
+Prostatectomy,1,7,6,Low
+Cholecystectomy,10,6,10,Low
+Hip replacement,8,15,35,High
+Cataract surgery,8,18,30,High
+Knee arthroscopy,5,5,32,High
+Coronary artery bypass graft (CABG),5,19,12,Mid
+Appendectomy,3,26,17,High
+Knee arthroscopy,3,20,40,High
+Cataract surgery,4,10,23,Mid
+Knee arthroscopy,2,4,8,Low
+Cataract surgery,0,15,30,High
+Cataract surgery,0,6,40,High
+Cesarean section,6,26,9,High
+Hysterectomy,0,4,1,Low
+Hip replacement,0,10,37,High
+Cesarean section,2,14,14,Mid
+Coronary artery bypass graft (CABG),9,2,2,Low
+Cesarean section,3,25,42,High
+Hernia repair,3,4,30,High
+Hernia repair,1,22,5,High
+Hip replacement,0,20,2,High
+Knee arthroscopy,2,4,10,Low
+Hysterectomy,10,8,14,Low
+Hip replacement,3,14,44,High
+Cataract surgery,2,2,27,Mid
+Cholecystectomy,7,28,9,High
+Hysterectomy,9,5,37,High
+Hysterectomy,0,16,46,High
+Cataract surgery,1,25,49,High
+Cataract surgery,6,20,49,High
+Appendectomy,3,7,6,Low
+Hip replacement,7,20,14,High
+Cataract surgery,10,24,17,High
+Hernia repair,2,10,17,Mid
+Coronary artery bypass graft (CABG),5,5,40,High
+Cholecystectomy,8,7,23,Mid
+Hip replacement,0,9,1,Low
+Prostatectomy,0,23,39,High
+Hernia repair,7,28,19,High
+Knee arthroscopy,2,2,33,High
+Cataract surgery,4,22,42,High
+Prostatectomy,0,13,25,Mid
+Cataract surgery,4,22,6,High
+Hysterectomy,10,13,37,High
+Hernia repair,5,9,29,Mid
+Hysterectomy,7,11,41,High
+Appendectomy,2,5,4,Low
+Hysterectomy,2,11,10,Mid
+Appendectomy,10,22,0,High
+Appendectomy,10,13,33,High
+Prostatectomy,9,1,0,Low
+Cataract surgery,8,8,18,Low
+Knee arthroscopy,3,9,1,Low
+Hysterectomy,3,25,20,High
+Hernia repair,6,16,19,Mid
+Appendectomy,1,16,22,Mid
+Cataract surgery,7,2,20,Mid
+Cholecystectomy,5,29,23,High
+Hip replacement,2,30,3,High
+Prostatectomy,8,18,11,Mid
+Knee arthroscopy,4,0,21,Mid
+Cesarean section,7,11,19,Mid
+Prostatectomy,6,6,17,Low
+Cholecystectomy,7,3,0,Low
+Hip replacement,6,9,29,Mid
+Cholecystectomy,2,12,32,High
+Hysterectomy,1,1,23,Mid
+Appendectomy,6,9,13,Low
+Knee arthroscopy,2,20,35,High
+Coronary artery bypass graft (CABG),2,21,4,High
+Appendectomy,1,24,10,High
+Coronary artery bypass graft (CABG),3,3,23,Mid
+Hip replacement,7,17,30,High
+Cataract surgery,0,4,12,Low
+Cesarean section,0,18,15,Mid
+Hernia repair,4,1,23,Mid
+Appendectomy,10,11,12,Mid
+Knee arthroscopy,4,16,23,Mid
+Cholecystectomy,10,9,25,Mid
+Knee arthroscopy,0,1,1,Low
+Hip replacement,5,5,15,Low
+Coronary artery bypass graft (CABG),0,7,37,High
+Cholecystectomy,4,28,45,High
+Hernia repair,8,18,0,Mid
+Hernia repair,4,10,48,High
+Appendectomy,5,30,10,High
+Hip replacement,7,24,50,High
+Cataract surgery,10,30,34,High
+Hip replacement,0,11,42,High
+Coronary artery bypass graft (CABG),1,8,28,Mid
+Knee arthroscopy,8,1,36,High
+Hernia repair,2,7,16,Low
+Knee arthroscopy,5,25,38,High
+Knee arthroscopy,4,10,41,High
+Knee arthroscopy,10,27,27,High
+Hernia repair,1,20,28,High
+Prostatectomy,6,3,42,High
+Hysterectomy,3,9,2,Low
+Coronary artery bypass graft (CABG),0,20,9,High
+Prostatectomy,3,19,41,High
+Coronary artery bypass graft (CABG),5,15,13,Mid
+Cholecystectomy,6,7,11,Low
+Hip replacement,6,3,46,High
+Hip replacement,6,28,41,High
+Cesarean section,2,9,29,Mid
+Hip replacement,5,11,31,High
+Hernia repair,7,28,31,High
+Cataract surgery,3,13,41,High
+Appendectomy,7,15,31,High
+Cesarean section,1,21,25,High
+Appendectomy,9,17,50,High
+Coronary artery bypass graft (CABG),8,20,0,High
+Appendectomy,8,21,41,High
+Appendectomy,7,20,1,High
+Cesarean section,9,11,16,Mid
+Cholecystectomy,9,17,29,Mid
+Knee arthroscopy,0,29,38,High
+Hip replacement,1,6,6,Low
+Hip replacement,5,19,26,Mid
+Hernia repair,9,23,8,High
+Cesarean section,4,22,21,High
+Hernia repair,8,6,33,High
+Cataract surgery,4,8,45,High
+Cataract surgery,1,0,48,High
+Hernia repair,9,25,0,High
+Cesarean section,3,5,8,Low
+Hernia repair,8,5,19,Low
+Hip replacement,0,21,18,High
+Prostatectomy,10,28,35,High
+Hysterectomy,0,11,39,High
+Appendectomy,6,21,44,High
+Hysterectomy,10,11,3,Mid
+Cesarean section,2,9,8,Low
+Hysterectomy,9,22,40,High
+Cataract surgery,1,29,21,High
+Coronary artery bypass graft (CABG),8,25,17,High
+Appendectomy,2,5,11,Low
+Knee arthroscopy,1,16,41,High
+Cesarean section,7,18,42,High
+Appendectomy,9,17,38,High
+Hysterectomy,5,5,8,Low
+Cataract surgery,5,23,5,High
+Cholecystectomy,9,18,18,Mid
+Prostatectomy,10,9,47,High
+Knee arthroscopy,6,23,46,High
+Prostatectomy,6,7,6,Low
+Appendectomy,10,20,15,High
+Cataract surgery,5,23,4,High
+Cataract surgery,3,5,15,Low
+Hysterectomy,10,20,0,High
+Hip replacement,8,24,50,High
+Hysterectomy,5,29,36,High
+Hip replacement,3,6,38,High
+Hip replacement,2,23,18,High
+Knee arthroscopy,3,0,36,High
+Hysterectomy,2,26,16,High
+Cholecystectomy,1,17,25,Mid
+Hernia repair,4,23,21,High
+Hernia repair,1,27,7,High
+Hysterectomy,5,24,32,High
+Hysterectomy,2,19,1,Mid
+Prostatectomy,5,11,29,Mid
+Knee arthroscopy,10,15,46,High
+Hysterectomy,9,9,19,Low
+Prostatectomy,8,26,17,High
+Hip replacement,0,9,42,High
+Cataract surgery,5,13,9,Mid
+Cataract surgery,8,24,23,High
+Hip replacement,10,19,3,Mid
+Cesarean section,3,9,36,High
+Prostatectomy,10,9,3,Low
+Prostatectomy,1,25,12,High
+Hip replacement,3,24,24,High
+Cholecystectomy,0,10,12,Mid
+Coronary artery bypass graft (CABG),2,22,17,High
+Appendectomy,9,1,23,Mid
+Hip replacement,8,24,1,High
+Hysterectomy,9,19,47,High
+Hysterectomy,4,7,32,High
+Knee arthroscopy,10,29,18,High
+Hip replacement,5,22,8,High
+Knee arthroscopy,2,28,27,High
+Hip replacement,4,30,34,High
+Prostatectomy,10,6,38,High
+Appendectomy,7,7,9,Low
+Prostatectomy,5,0,0,Low
+Coronary artery bypass graft (CABG),3,20,41,High
+Cataract surgery,1,1,20,Mid
+Hernia repair,8,17,8,Mid
+Hip replacement,0,14,46,High
+Coronary artery bypass graft (CABG),0,0,14,Low
+Cataract surgery,3,4,34,High
+Cesarean section,6,1,4,Low
+Appendectomy,0,19,40,High
+Knee arthroscopy,8,2,21,Mid
+Knee arthroscopy,3,18,40,High
+Prostatectomy,2,17,22,Mid
+Hysterectomy,0,28,6,High
+Cataract surgery,9,21,22,High
+Cesarean section,3,17,43,High
+Coronary artery bypass graft (CABG),8,13,24,Mid
+Appendectomy,9,29,26,High
+Cataract surgery,5,23,40,High
+Cesarean section,5,7,5,Low
+Hernia repair,0,28,33,High
+Hip replacement,9,29,8,High
+Knee arthroscopy,1,11,48,High
+Coronary artery bypass graft (CABG),10,20,32,High
+Knee arthroscopy,5,9,50,High
+Coronary artery bypass graft (CABG),1,22,5,High
+Prostatectomy,2,19,36,High
+Hysterectomy,3,16,30,High
+Coronary artery bypass graft (CABG),10,10,33,High
+Knee arthroscopy,4,1,40,High
+Prostatectomy,8,25,28,High
+Coronary artery bypass graft (CABG),3,25,13,High
+Hernia repair,10,3,35,High
+Hysterectomy,8,0,35,High
+Coronary artery bypass graft (CABG),10,14,14,Mid
+Prostatectomy,9,12,7,Mid
+Cataract surgery,2,7,25,Mid
+Cholecystectomy,7,24,35,High
+Cesarean section,0,3,47,High
+Cholecystectomy,10,9,20,Mid
+Cholecystectomy,8,18,27,Mid
+Appendectomy,8,17,3,Mid
+Hernia repair,9,4,15,Low
+Cataract surgery,1,29,21,High
+Hip replacement,3,18,11,Mid
+Coronary artery bypass graft (CABG),7,25,15,High
+Cesarean section,6,22,50,High
+Hysterectomy,0,26,39,High
+Cataract surgery,4,21,37,High
+Knee arthroscopy,6,15,41,High
+Hip replacement,3,0,36,High
+Appendectomy,0,11,28,Mid
+Appendectomy,8,23,17,High
+Cataract surgery,4,1,9,Low
+Prostatectomy,10,20,41,High
+Cholecystectomy,1,24,38,High
+Knee arthroscopy,7,7,17,Low
+Appendectomy,10,17,0,Mid
+Cesarean section,1,24,38,High
+Appendectomy,2,15,20,Mid
+Hysterectomy,9,4,0,Low
+Coronary artery bypass graft (CABG),0,25,14,High
+Appendectomy,10,29,3,High
+Hysterectomy,1,21,19,High
+Cataract surgery,6,12,9,Mid
+Cataract surgery,9,18,22,Mid
+Hip replacement,1,28,40,High
+Appendectomy,5,2,33,High
+Cesarean section,2,25,45,High
+Appendectomy,3,7,47,High
+Cesarean section,10,26,32,High
+Hernia repair,7,25,33,High
+Hip replacement,2,25,38,High
+Hernia repair,9,30,9,High
+Appendectomy,5,11,19,Mid
+Hip replacement,0,1,0,Low
+Hernia repair,6,10,12,Mid
+Cholecystectomy,7,11,0,Mid
+Appendectomy,10,27,4,High
+Hernia repair,7,17,15,Mid
+Cholecystectomy,2,12,14,Mid
+Cholecystectomy,9,4,48,High
+Cataract surgery,0,21,27,High
+Appendectomy,8,11,30,High
+Cholecystectomy,5,1,22,Mid
+Cataract surgery,10,30,47,High
+Hernia repair,8,4,44,High
+Hysterectomy,6,6,42,High
+Appendectomy,0,25,16,High
+Hip replacement,0,25,48,High
+Cesarean section,5,23,33,High
+Cesarean section,4,11,12,Mid
+Hernia repair,8,15,13,Mid
+Prostatectomy,1,22,10,High
+Prostatectomy,7,7,27,Mid
+Hernia repair,10,29,41,High
+Cholecystectomy,4,27,31,High
+Appendectomy,1,8,34,High
+Cesarean section,9,14,30,High
+Cesarean section,10,4,16,Low
+Cholecystectomy,10,12,46,High
+Cesarean section,5,4,8,Low
+Hip replacement,9,10,9,Mid
+Appendectomy,7,9,7,Low
+Coronary artery bypass graft (CABG),3,19,20,Mid
+Cesarean section,1,12,12,Mid
+Hernia repair,10,8,49,High
+Hip replacement,4,20,4,High
+Cesarean section,1,13,5,Mid
+Hip replacement,1,17,29,Mid
+Cataract surgery,5,14,30,High
+Coronary artery bypass graft (CABG),10,9,16,Low
+Knee arthroscopy,9,23,10,High
+Hernia repair,8,30,19,High
+Hernia repair,3,6,47,High
+Appendectomy,5,7,8,Low
+Hip replacement,6,27,1,High
+Cholecystectomy,10,2,36,High
+Hernia repair,5,30,0,High
+Hip replacement,7,14,3,Mid
+Hip replacement,3,15,35,High
+Hysterectomy,0,3,24,Mid
+Hysterectomy,6,20,2,High
+Knee arthroscopy,2,5,8,Low
+Cataract surgery,5,0,21,Mid
+Knee arthroscopy,1,3,22,Mid
+Cesarean section,8,10,11,Mid
+Cholecystectomy,0,11,9,Mid
+Cesarean section,5,25,33,High
+Prostatectomy,5,28,42,High
+Cesarean section,4,4,9,Low
+Appendectomy,4,22,29,High
+Cesarean section,0,28,21,High
+Knee arthroscopy,9,20,5,High
+Hernia repair,4,15,49,High
+Hernia repair,1,12,1,Mid
+Hysterectomy,6,12,29,Mid
+Cholecystectomy,2,16,1,Mid
+Cholecystectomy,3,26,31,High
+Appendectomy,2,6,41,High
+Knee arthroscopy,2,7,15,Low
+Hysterectomy,3,12,11,Mid
+Prostatectomy,4,22,0,High
+Cholecystectomy,0,26,7,High
+Hernia repair,3,15,47,High
+Cesarean section,10,29,49,High
+Cesarean section,7,28,12,High
+Hysterectomy,9,30,14,High
+Knee arthroscopy,6,3,43,High
+Knee arthroscopy,8,7,7,Low
+Cataract surgery,4,15,9,Mid
+Coronary artery bypass graft (CABG),9,30,45,High
+Cholecystectomy,3,20,4,High
+Knee arthroscopy,7,9,49,High
+Hernia repair,8,24,18,High
+Hysterectomy,6,11,46,High
+Prostatectomy,6,11,37,High
+Cataract surgery,4,25,10,High
+Hip replacement,3,4,42,High
+Appendectomy,9,15,19,Mid
+Prostatectomy,0,0,19,Low
+Hip replacement,9,27,20,High
+Cesarean section,9,8,17,Low
+Appendectomy,6,11,49,High
+Cholecystectomy,0,4,9,Low
+Hernia repair,0,21,33,High
+Appendectomy,4,19,25,Mid
+Coronary artery bypass graft (CABG),8,21,29,High
+Hip replacement,5,27,8,High
+Cholecystectomy,2,23,45,High
+Coronary artery bypass graft (CABG),2,2,50,High
+Cesarean section,6,4,30,High
+Coronary artery bypass graft (CABG),5,1,41,High
+Cataract surgery,8,13,3,Mid
+Cataract surgery,5,1,5,Low
+Hysterectomy,4,12,13,Mid
+Prostatectomy,9,6,3,Low
+Prostatectomy,6,9,25,Mid
+Cholecystectomy,0,12,46,High
+Cesarean section,6,15,47,High
+Knee arthroscopy,2,25,38,High
+Cataract surgery,8,13,16,Mid
+Cholecystectomy,5,10,18,Mid
+Knee arthroscopy,8,9,50,High
+Prostatectomy,4,5,48,High
+Hysterectomy,6,3,5,Low
+Coronary artery bypass graft (CABG),3,20,28,High
+Cataract surgery,6,0,10,Low
+Cholecystectomy,0,6,15,Low
+Appendectomy,6,23,29,High
+Knee arthroscopy,7,8,24,Mid
+Coronary artery bypass graft (CABG),4,7,39,High
+Cataract surgery,1,4,10,Low
+Prostatectomy,4,18,6,Mid
+Cesarean section,5,9,25,Mid
+Knee arthroscopy,1,10,21,Mid
+Prostatectomy,5,24,24,High
+Cataract surgery,5,14,18,Mid
+Knee arthroscopy,0,5,30,High
+Coronary artery bypass graft (CABG),0,14,25,Mid
+Cataract surgery,10,4,41,High
+Hip replacement,9,28,40,High
+Cholecystectomy,2,18,35,High
+Coronary artery bypass graft (CABG),9,21,22,High
+Knee arthroscopy,9,18,46,High
+Cesarean section,2,9,12,Low
+Prostatectomy,3,11,24,Mid
+Appendectomy,1,21,1,High
+Prostatectomy,8,3,1,Low
+Knee arthroscopy,9,30,15,High
+Prostatectomy,10,17,8,Mid
+Cholecystectomy,6,15,27,Mid
+Cataract surgery,6,7,12,Low
+Appendectomy,5,3,34,High
+Hernia repair,2,24,40,High
+Knee arthroscopy,5,22,12,High
+Hysterectomy,7,11,30,High
+Hernia repair,7,1,20,Mid
+Prostatectomy,10,3,31,High
+Knee arthroscopy,8,4,33,High
+Hip replacement,0,2,7,Low
+Hysterectomy,0,8,40,High
+Appendectomy,2,28,47,High
+Cesarean section,2,20,1,High
+Hip replacement,9,17,37,High
+Hernia repair,7,10,31,High
+Cataract surgery,9,2,39,High
+Cholecystectomy,0,29,27,High
+Cesarean section,1,30,36,High
+Hip replacement,1,24,40,High
+Cataract surgery,2,22,0,High
+Cataract surgery,5,1,40,High
+Knee arthroscopy,0,8,9,Low
+Hip replacement,1,13,3,Mid
+Appendectomy,0,3,34,High
+Prostatectomy,4,28,9,High
+Hysterectomy,6,8,46,High
+Hysterectomy,7,30,10,High
+Hernia repair,9,12,13,Mid
+Hernia repair,0,17,37,High
+Hysterectomy,6,14,11,Mid
+Appendectomy,4,27,44,High
+Cholecystectomy,9,9,16,Low
+Coronary artery bypass graft (CABG),0,15,15,Mid
+Prostatectomy,2,11,34,High
+Cholecystectomy,6,19,1,Mid
+Knee arthroscopy,9,4,10,Low
+Coronary artery bypass graft (CABG),0,1,40,High
+Coronary artery bypass graft (CABG),6,9,2,Low
+Hip replacement,4,0,28,Mid
+Appendectomy,0,6,17,Low
+Appendectomy,0,25,19,High
+Coronary artery bypass graft (CABG),0,16,46,High
+Hip replacement,10,15,13,Mid
+Prostatectomy,8,26,33,High
+Coronary artery bypass graft (CABG),10,26,48,High
+Cesarean section,2,23,30,High
+Hernia repair,4,2,39,High
+Hernia repair,10,13,41,High
+Cholecystectomy,9,9,17,Low
+Knee arthroscopy,8,21,29,High
+Hernia repair,5,6,24,Mid
+Cataract surgery,8,25,18,High
+Cholecystectomy,7,16,7,Mid
+Hernia repair,7,29,27,High
+Knee arthroscopy,0,5,7,Low
+Appendectomy,8,22,30,High
+Appendectomy,5,21,2,High
+Prostatectomy,8,3,2,Low
+Coronary artery bypass graft (CABG),2,16,43,High
+Cesarean section,2,26,21,High
+Appendectomy,5,8,16,Low
+Hip replacement,8,3,35,High
+Hernia repair,6,6,16,Low
+Hip replacement,2,22,13,High
+Knee arthroscopy,2,1,50,High
+Appendectomy,1,16,8,Mid
+Cesarean section,8,23,29,High
+Knee arthroscopy,2,7,20,Mid
+Cataract surgery,10,22,11,High
+Cataract surgery,4,29,36,High
+Hip replacement,8,30,31,High
+Coronary artery bypass graft (CABG),7,14,10,Mid
+Cholecystectomy,1,30,19,High
+Coronary artery bypass graft (CABG),2,14,34,High
+Prostatectomy,1,7,46,High
+Coronary artery bypass graft (CABG),7,15,45,High
+Prostatectomy,5,18,10,Mid
+Prostatectomy,5,10,7,Mid
+Cesarean section,8,1,3,Low
+Appendectomy,7,22,26,High
+Cesarean section,3,23,43,High
+Prostatectomy,3,16,39,High
+Knee arthroscopy,8,27,37,High
+Cataract surgery,0,25,46,High
+Prostatectomy,1,15,29,Mid
+Cesarean section,1,24,43,High
+Knee arthroscopy,5,14,47,High
+Cesarean section,3,12,47,High
+Coronary artery bypass graft (CABG),10,14,26,Mid
+Hernia repair,9,26,20,High
+Hip replacement,2,3,19,Low
+Cholecystectomy,2,15,3,Mid
+Cesarean section,2,29,10,High
+Cholecystectomy,5,11,12,Mid
+Hysterectomy,7,29,8,High
+Cesarean section,10,3,3,Low
+Hernia repair,6,2,11,Low
+Cholecystectomy,3,21,8,High
+Prostatectomy,10,16,12,Mid
+Cesarean section,3,21,47,High
+Appendectomy,10,17,25,Mid
+Hip replacement,9,24,37,High
+Hernia repair,10,17,41,High
+Cholecystectomy,10,22,12,High
+Hernia repair,10,27,38,High
+Knee arthroscopy,1,16,27,Mid
+Hip replacement,0,11,18,Mid
+Prostatectomy,8,22,23,High
+Cesarean section,1,20,18,High
+Cesarean section,7,23,48,High
+Cesarean section,8,3,12,Low
+Hip replacement,3,30,12,High
+Appendectomy,7,11,27,Mid
+Hysterectomy,8,30,1,High
+Cataract surgery,9,25,9,High
+Coronary artery bypass graft (CABG),9,22,21,High
+Cholecystectomy,4,21,12,High
+Appendectomy,6,20,8,High
+Prostatectomy,9,19,32,High
+Cholecystectomy,3,14,13,Mid
+Cesarean section,0,22,47,High
+Hernia repair,2,27,19,High
+Prostatectomy,4,15,14,Mid
+Cholecystectomy,2,4,31,High
+Cesarean section,10,20,32,High
+Cholecystectomy,6,14,16,Mid
+Hernia repair,8,16,23,Mid
+Cesarean section,5,17,29,Mid
+Hysterectomy,9,4,12,Low
+Appendectomy,0,12,46,High
+Knee arthroscopy,6,18,47,High
+Coronary artery bypass graft (CABG),2,29,15,High
+Hip replacement,4,12,1,Mid
+Coronary artery bypass graft (CABG),9,17,16,Mid
+Prostatectomy,3,13,31,High
+Coronary artery bypass graft (CABG),9,29,42,High
+Cesarean section,4,3,7,Low
+Hysterectomy,4,3,2,Low
+Knee arthroscopy,5,19,11,Mid
+Appendectomy,9,19,19,Mid
+Appendectomy,9,18,15,Mid
+Hernia repair,10,12,13,Mid
+Hip replacement,5,11,15,Mid
+Cholecystectomy,7,6,48,High
+Hysterectomy,7,24,42,High
+Cholecystectomy,10,11,48,High
+Knee arthroscopy,8,20,50,High
+Coronary artery bypass graft (CABG),7,3,32,High
+Appendectomy,10,26,29,High
+Knee arthroscopy,1,1,11,Low
+Coronary artery bypass graft (CABG),9,1,14,Low
+Appendectomy,10,4,17,Low
+Coronary artery bypass graft (CABG),0,22,27,High
+Hip replacement,9,9,22,Mid
+Hysterectomy,1,9,13,Low
+Prostatectomy,1,8,29,Mid
+Knee arthroscopy,2,12,32,High
+Knee arthroscopy,9,6,44,High
+Cataract surgery,6,4,14,Low
+Cesarean section,1,25,6,High
+Hip replacement,0,9,14,Low
+Hip replacement,5,9,41,High
+Cholecystectomy,8,5,45,High
+Coronary artery bypass graft (CABG),2,26,37,High
+Cesarean section,5,27,45,High
+Hysterectomy,2,18,43,High
+Hysterectomy,0,20,10,High
+Hip replacement,4,7,28,Mid
+Hysterectomy,9,0,30,High
+Cataract surgery,10,27,24,High
+Knee arthroscopy,3,16,23,Mid
+Hernia repair,6,6,18,Low
+Prostatectomy,5,13,1,Mid
+Cholecystectomy,9,20,21,High
+Coronary artery bypass graft (CABG),6,29,19,High
+Prostatectomy,4,20,32,High
+Coronary artery bypass graft (CABG),3,16,7,Mid
+Appendectomy,6,8,24,Mid
+Prostatectomy,6,16,45,High
+Hernia repair,5,4,8,Low
+Hip replacement,7,25,33,High
+Cataract surgery,3,24,22,High
+Knee arthroscopy,9,29,4,High
+Knee arthroscopy,4,30,24,High
+Cataract surgery,3,19,7,Mid
+Cesarean section,0,28,15,High
+Appendectomy,7,7,47,High
+Coronary artery bypass graft (CABG),0,5,44,High
+Hernia repair,4,10,14,Mid
+Hysterectomy,5,30,0,High
+Prostatectomy,5,18,21,Mid
+Appendectomy,4,3,2,Low
+Prostatectomy,2,17,37,High
+Hernia repair,4,0,13,Low
+Cholecystectomy,7,12,35,High
+Cholecystectomy,1,13,17,Mid
+Appendectomy,5,23,46,High
+Hip replacement,8,0,40,High
+Hernia repair,7,29,17,High
+Hernia repair,10,28,2,High
+Cataract surgery,7,10,9,Mid
+Hip replacement,7,16,48,High
+Coronary artery bypass graft (CABG),6,3,38,High
+Coronary artery bypass graft (CABG),7,25,46,High
+Hysterectomy,5,11,0,Mid
+Knee arthroscopy,1,9,26,Mid
+Cholecystectomy,1,30,26,High
+Coronary artery bypass graft (CABG),7,5,10,Low
+Hip replacement,10,24,48,High
+Hernia repair,0,0,4,Low
+Coronary artery bypass graft (CABG),5,6,6,Low
+Hernia repair,5,25,18,High
+Coronary artery bypass graft (CABG),10,26,28,High
+Cholecystectomy,3,20,14,High
+Prostatectomy,10,27,34,High
+Coronary artery bypass graft (CABG),10,30,46,High
+Hip replacement,9,15,36,High
+Coronary artery bypass graft (CABG),2,23,11,High
+Knee arthroscopy,10,13,29,Mid
+Cholecystectomy,2,22,19,High
+Hip replacement,0,19,36,High
+Cataract surgery,2,19,2,Mid
+Hip replacement,3,5,8,Low
+Knee arthroscopy,10,21,40,High
+Prostatectomy,10,24,38,High
+Cholecystectomy,4,27,25,High
+Cataract surgery,2,4,1,Low
+Knee arthroscopy,5,23,22,High
+Knee arthroscopy,10,20,22,High
+Appendectomy,4,17,20,Mid
+Cholecystectomy,2,14,15,Mid
+Hip replacement,5,5,8,Low
+Hernia repair,5,24,12,High
+Prostatectomy,7,28,27,High
+Hernia repair,1,18,26,Mid
+Hip replacement,0,0,50,High
+Hip replacement,3,0,16,Low
+Cholecystectomy,6,12,37,High
+Hip replacement,10,2,35,High
+Appendectomy,9,9,0,Low
+Cataract surgery,2,20,17,High
+Hip replacement,2,2,50,High
+Hernia repair,4,8,8,Low
+Hip replacement,4,7,12,Low
+Appendectomy,9,2,39,High
+Coronary artery bypass graft (CABG),2,24,44,High
+Coronary artery bypass graft (CABG),8,30,14,High
+Knee arthroscopy,3,12,42,High
+Prostatectomy,2,5,43,High
+Hysterectomy,10,12,45,High
+Cataract surgery,1,22,3,High
+Cesarean section,9,19,32,High
+Knee arthroscopy,10,19,23,Mid
+Prostatectomy,8,11,35,High
+Coronary artery bypass graft (CABG),3,12,50,High
+Hernia repair,2,1,40,High
+Cesarean section,6,20,9,High
+Prostatectomy,7,23,35,High
+Prostatectomy,10,22,19,High
+Knee arthroscopy,1,15,40,High
+Cesarean section,6,22,44,High
+Cholecystectomy,4,5,43,High
+Hysterectomy,10,18,10,Mid
+Cholecystectomy,4,20,11,High
+Cesarean section,2,12,17,Mid
+Cholecystectomy,4,16,29,Mid
+Appendectomy,1,22,43,High
+Coronary artery bypass graft (CABG),3,8,47,High
+Appendectomy,5,16,36,High
+Hip replacement,0,28,19,High
+Cholecystectomy,9,1,24,Mid
+Hip replacement,3,18,11,Mid
+Hernia repair,5,18,20,Mid
+Cataract surgery,8,23,24,High
+Hernia repair,10,6,10,Low
+Cesarean section,10,21,8,High
+Prostatectomy,1,30,49,High
+Coronary artery bypass graft (CABG),10,9,24,Mid
+Cholecystectomy,6,9,34,High
+Knee arthroscopy,5,26,31,High
+Cataract surgery,1,19,48,High
+Hysterectomy,7,8,13,Low
+Hysterectomy,6,16,0,Mid
+Hysterectomy,10,26,16,High
+Cholecystectomy,4,14,24,Mid
+Hysterectomy,4,1,7,Low
+Appendectomy,6,30,4,High
+Cataract surgery,8,29,4,High
+Appendectomy,10,3,40,High
+Prostatectomy,8,18,34,High
+Cataract surgery,8,16,18,Mid
+Appendectomy,5,4,22,Mid
+Cataract surgery,9,6,8,Low
+Prostatectomy,5,17,29,Mid
+Hip replacement,2,20,49,High
+Cholecystectomy,0,21,15,High
+Cholecystectomy,6,26,32,High
+Hysterectomy,3,6,1,Low
+Hernia repair,0,16,13,Mid
+Hysterectomy,7,6,45,High
+Cesarean section,5,3,0,Low
+Appendectomy,5,7,25,Mid
+Cataract surgery,1,12,24,Mid
+Hernia repair,0,3,15,Low
+Prostatectomy,1,5,14,Low
+Cesarean section,3,24,25,High
+Prostatectomy,1,4,46,High
+Cholecystectomy,0,29,43,High
+Cholecystectomy,6,11,15,Mid
+Hysterectomy,10,3,13,Low
+Appendectomy,10,23,28,High
+Hernia repair,7,28,23,High
+Coronary artery bypass graft (CABG),5,8,46,High
+Cesarean section,3,3,14,Low
+Cesarean section,5,18,18,Mid
+Hysterectomy,2,23,7,High
+Cholecystectomy,7,13,33,High
+Hysterectomy,9,4,1,Low
+Cataract surgery,1,17,26,Mid
+Hernia repair,4,9,9,Low
+Appendectomy,0,24,34,High
+Hip replacement,5,18,22,Mid
+Knee arthroscopy,1,11,48,High
+Knee arthroscopy,3,17,7,Mid
+Hysterectomy,5,16,27,Mid
+Cataract surgery,9,29,22,High
+Hernia repair,10,23,3,High
+Coronary artery bypass graft (CABG),7,10,13,Mid
+Knee arthroscopy,7,2,41,High
+Hernia repair,10,22,28,High
+Appendectomy,5,16,0,Mid
+Prostatectomy,3,0,3,Low
+Cataract surgery,7,14,31,High
+Cholecystectomy,7,27,32,High
+Hernia repair,9,8,48,High
+Appendectomy,0,14,25,Mid
+Coronary artery bypass graft (CABG),3,27,16,High
+Hip replacement,3,23,38,High
+Cholecystectomy,6,27,22,High
+Hip replacement,10,28,31,High
+Coronary artery bypass graft (CABG),6,2,14,Low
+Appendectomy,10,21,12,High
+Knee arthroscopy,7,26,1,High
+Hip replacement,10,18,18,Mid
+Cholecystectomy,4,12,23,Mid
+Hysterectomy,6,11,44,High
+Cesarean section,7,19,23,Mid
+Hernia repair,8,0,10,Low
+Knee arthroscopy,2,20,21,High
+Hip replacement,2,16,14,Mid
+Prostatectomy,3,12,9,Mid
+Hernia repair,4,0,40,High
+Hysterectomy,9,9,26,Mid
+Coronary artery bypass graft (CABG),0,14,8,Mid
+Cesarean section,6,26,27,High
+Appendectomy,8,26,0,High
+Hysterectomy,7,29,16,High
+Hysterectomy,4,6,30,High
+Coronary artery bypass graft (CABG),3,27,43,High
+Cataract surgery,6,21,9,High
+Coronary artery bypass graft (CABG),4,17,36,High
+Cataract surgery,6,15,28,Mid
+Cataract surgery,0,13,17,Mid
+Knee arthroscopy,0,26,46,High
+Knee arthroscopy,9,27,37,High
+Cholecystectomy,2,17,38,High
+Hip replacement,10,26,48,High
+Hip replacement,1,6,5,Low
+Appendectomy,1,16,39,High
+Hip replacement,6,28,11,High
+Knee arthroscopy,9,17,13,Mid
+Cholecystectomy,1,11,43,High
+Cholecystectomy,10,7,9,Low
+Cataract surgery,3,21,19,High
+Coronary artery bypass graft (CABG),1,30,14,High
+Appendectomy,5,29,30,High
+Cataract surgery,7,1,6,Low
+Coronary artery bypass graft (CABG),9,6,40,High
+Hip replacement,3,3,9,Low
+Cataract surgery,4,17,9,Mid
+Hernia repair,3,27,47,High
+Hip replacement,2,5,38,High
+Coronary artery bypass graft (CABG),4,26,27,High
+Appendectomy,8,30,29,High
+Coronary artery bypass graft (CABG),7,8,36,High
+Cataract surgery,7,26,2,High
+Cataract surgery,7,8,49,High
+Hysterectomy,7,13,42,High
+Appendectomy,6,7,14,Low
+Prostatectomy,7,30,20,High
+Hip replacement,10,18,36,High
+Cholecystectomy,7,2,11,Low
+Appendectomy,7,17,3,Mid
+Cholecystectomy,9,4,46,High
+Appendectomy,6,13,8,Mid
+Appendectomy,0,27,38,High
+Coronary artery bypass graft (CABG),3,29,41,High
+Appendectomy,3,3,27,Mid
+Hysterectomy,4,6,22,Mid
+Prostatectomy,9,19,44,High
+Cataract surgery,5,24,39,High
+Cesarean section,3,27,43,High
+Cholecystectomy,1,11,21,Mid
+Cataract surgery,5,1,23,Mid
+Cesarean section,7,10,50,High
+Prostatectomy,7,13,25,Mid
+Prostatectomy,6,21,29,High
+Cholecystectomy,5,30,32,High
+Cholecystectomy,1,22,15,High
+Prostatectomy,6,15,21,Mid
+Cesarean section,10,19,48,High
+Appendectomy,4,28,49,High
+Hip replacement,5,5,42,High
+Hernia repair,9,22,17,High
+Cataract surgery,7,3,6,Low
+Coronary artery bypass graft (CABG),7,14,49,High
+Cataract surgery,2,23,25,High
+Coronary artery bypass graft (CABG),6,24,7,High
+Cesarean section,0,0,5,Low
+Coronary artery bypass graft (CABG),0,6,29,Mid
+Cholecystectomy,6,24,38,High
+Hip replacement,9,30,22,High
+Hip replacement,8,11,31,High
+Cholecystectomy,6,9,21,Mid
+Hysterectomy,9,4,41,High
+Cesarean section,4,11,42,High
+Hysterectomy,7,17,44,High
+Hysterectomy,1,9,8,Low
+Cataract surgery,8,5,30,High
+Prostatectomy,5,27,6,High
+Cataract surgery,8,11,8,Mid
+Prostatectomy,1,6,12,Low
+Hernia repair,2,17,2,Mid
+Coronary artery bypass graft (CABG),7,1,34,High
+Prostatectomy,0,9,32,High
+Cholecystectomy,9,14,20,Mid
+Cataract surgery,6,29,30,High
+Cesarean section,6,11,33,High
+Coronary artery bypass graft (CABG),0,25,31,High
+Hernia repair,8,16,34,High
+Prostatectomy,7,3,14,Low
+Hernia repair,3,6,31,High
+Cesarean section,9,29,5,High
+Hysterectomy,10,8,44,High
+Hip replacement,4,30,20,High
+Cesarean section,1,18,32,High
+Knee arthroscopy,8,27,31,High
+Cesarean section,5,26,18,High
+Hernia repair,2,22,32,High
+Cholecystectomy,6,6,27,Mid
+Cataract surgery,8,22,30,High
+Cholecystectomy,2,1,20,Mid
+Hernia repair,1,5,33,High
+Cataract surgery,6,17,14,Mid
+Knee arthroscopy,6,5,13,Low
+Hip replacement,3,12,18,Mid
+Coronary artery bypass graft (CABG),10,25,42,High
+Hernia repair,8,18,14,Mid
+Prostatectomy,7,29,5,High
+Hernia repair,0,1,8,Low
+Hernia repair,0,11,36,High
+Cataract surgery,4,14,19,Mid
+Appendectomy,5,13,33,High
+Cesarean section,2,5,37,High
+Appendectomy,8,17,25,Mid
+Knee arthroscopy,9,4,17,Low
+Prostatectomy,5,17,27,Mid
+Hip replacement,3,2,50,High
+Hysterectomy,6,2,8,Low
+Knee arthroscopy,7,21,31,High
+Hysterectomy,8,21,5,High
+Hysterectomy,10,9,13,Low
+Hip replacement,5,18,27,Mid
+Cholecystectomy,5,2,23,Mid
+Appendectomy,7,28,12,High
+Hernia repair,4,11,42,High
+Coronary artery bypass graft (CABG),2,28,11,High
+Hysterectomy,2,15,50,High
+Prostatectomy,5,16,18,Mid
+Knee arthroscopy,1,6,20,Mid
+Cholecystectomy,5,12,26,Mid
+Hysterectomy,5,23,18,High
+Cholecystectomy,7,1,23,Mid
+Cholecystectomy,6,3,25,Mid
+Hysterectomy,7,9,44,High
+Cataract surgery,8,6,27,Mid
+Cesarean section,5,23,45,High
+Prostatectomy,2,16,17,Mid
+Hernia repair,9,19,43,High
+Hernia repair,2,5,35,High
+Prostatectomy,10,18,41,High
+Cataract surgery,0,4,28,Mid
+Hernia repair,10,9,16,Low
+Cholecystectomy,4,8,3,Low
+Hip replacement,3,26,43,High
+Knee arthroscopy,8,12,44,High
+Appendectomy,8,18,28,Mid
+Hernia repair,4,20,3,High
+Prostatectomy,9,23,9,High
+Hip replacement,3,5,24,Mid
+Hysterectomy,6,3,30,High
+Cesarean section,5,23,2,High
+Prostatectomy,3,26,46,High
+Cholecystectomy,9,2,1,Low
+Cesarean section,1,2,24,Mid
+Knee arthroscopy,0,3,48,High
+Knee arthroscopy,3,24,5,High
+Cataract surgery,3,4,25,Mid
+Coronary artery bypass graft (CABG),0,7,7,Low
+Cataract surgery,5,15,34,High
+Hip replacement,3,21,26,High
+Cesarean section,0,2,24,Mid
+Coronary artery bypass graft (CABG),0,30,17,High
+Hysterectomy,0,23,0,High
+Cholecystectomy,7,11,47,High
+Cesarean section,9,24,38,High
+Cataract surgery,7,7,2,Low
+Appendectomy,1,12,3,Mid
+Coronary artery bypass graft (CABG),10,3,40,High
+Coronary artery bypass graft (CABG),6,13,36,High
+Cholecystectomy,7,13,50,High
+Hernia repair,7,12,14,Mid
+Knee arthroscopy,10,26,7,High
+Knee arthroscopy,9,5,37,High
+Appendectomy,10,16,49,High
+Hip replacement,6,3,18,Low
+Hip replacement,4,7,46,High
+Hysterectomy,0,16,25,Mid
+Cesarean section,8,2,38,High
+Prostatectomy,6,16,9,Mid
+Hernia repair,1,8,37,High
+Cataract surgery,5,1,13,Low
+Prostatectomy,1,24,48,High
+Prostatectomy,0,12,40,High
+Coronary artery bypass graft (CABG),6,19,18,Mid
+Appendectomy,1,1,29,Mid
+Knee arthroscopy,1,19,4,Mid
+Hysterectomy,10,27,30,High
+Hip replacement,4,10,6,Mid
+Appendectomy,4,26,18,High
+Coronary artery bypass graft (CABG),6,25,30,High
+Cataract surgery,0,21,38,High
+Hysterectomy,7,14,23,Mid
+Coronary artery bypass graft (CABG),2,10,33,High
+Knee arthroscopy,3,22,22,High
+Knee arthroscopy,8,2,47,High
+Knee arthroscopy,3,2,44,High
+Appendectomy,9,27,39,High
+Appendectomy,4,25,5,High
+Hip replacement,6,11,37,High
+Hip replacement,3,23,40,High
+Cataract surgery,0,4,35,High
+Hysterectomy,8,19,26,Mid
+Cholecystectomy,3,6,10,Low
+Cholecystectomy,8,6,4,Low
+Coronary artery bypass graft (CABG),5,12,16,Mid
+Knee arthroscopy,0,8,6,Low
+Hysterectomy,2,24,26,High
+Prostatectomy,10,20,46,High
+Appendectomy,1,12,14,Mid
+Cesarean section,8,11,45,High
+Hernia repair,0,12,12,Mid
+Cataract surgery,8,23,10,High
+Knee arthroscopy,8,9,44,High
+Knee arthroscopy,7,0,25,Mid
+Knee arthroscopy,7,24,21,High
+Appendectomy,10,7,27,Mid
+Appendectomy,0,21,23,High
+Hernia repair,10,15,28,Mid
+Prostatectomy,7,12,8,Mid
+Hysterectomy,9,2,41,High
+Knee arthroscopy,2,2,3,Low
+Cholecystectomy,10,23,48,High
+Hip replacement,6,4,45,High
+Cholecystectomy,10,25,17,High
+Coronary artery bypass graft (CABG),0,10,42,High
+Cholecystectomy,0,29,15,High
+Coronary artery bypass graft (CABG),9,6,32,High
+Cesarean section,4,20,28,High
+Hip replacement,4,23,38,High
+Cholecystectomy,7,9,9,Low
+Cesarean section,6,9,8,Low
+Cataract surgery,7,19,30,High
+Hysterectomy,5,1,27,Mid
+Cesarean section,5,2,2,Low
+Hysterectomy,1,7,13,Low
+Cholecystectomy,5,30,24,High
+Prostatectomy,4,10,14,Mid
+Cesarean section,2,12,1,Mid
+Hip replacement,5,6,23,Mid
+Cholecystectomy,7,12,13,Mid
+Knee arthroscopy,8,1,47,High
+Appendectomy,0,5,6,Low
+Cesarean section,2,8,35,High
+Hip replacement,2,30,49,High
+Cataract surgery,10,19,23,Mid
+Knee arthroscopy,7,24,26,High
+Cataract surgery,0,1,36,High
+Cholecystectomy,4,17,37,High
+Appendectomy,2,15,29,Mid
+Cesarean section,1,24,26,High
+Cesarean section,7,11,38,High
+Prostatectomy,2,6,14,Low
+Prostatectomy,6,6,25,Mid
+Cholecystectomy,10,16,0,Mid
+Cholecystectomy,0,12,3,Mid
+Appendectomy,5,10,28,Mid
+Prostatectomy,2,5,0,Low
+Hip replacement,7,28,42,High
+Hip replacement,5,22,49,High
+Appendectomy,1,26,45,High
+Hip replacement,5,13,21,Mid
+Coronary artery bypass graft (CABG),6,5,10,Low
+Hysterectomy,4,5,9,Low
+Appendectomy,2,1,16,Low
+Appendectomy,3,21,35,High
+Hernia repair,3,19,46,High
+Knee arthroscopy,5,24,25,High
+Knee arthroscopy,9,14,47,High
+Coronary artery bypass graft (CABG),0,27,20,High
+Prostatectomy,10,16,12,Mid
+Cholecystectomy,3,28,8,High
+Cholecystectomy,9,7,10,Low
+Cataract surgery,3,4,10,Low
+Coronary artery bypass graft (CABG),9,16,5,Mid
+Appendectomy,0,19,0,Mid
+Coronary artery bypass graft (CABG),8,0,5,Low
+Coronary artery bypass graft (CABG),3,21,12,High
+Coronary artery bypass graft (CABG),6,17,21,Mid
+Knee arthroscopy,2,14,30,High
+Coronary artery bypass graft (CABG),9,4,21,Mid
+Hysterectomy,2,6,36,High
+Cholecystectomy,7,17,46,High
+Cataract surgery,7,5,26,Mid
+Hysterectomy,10,21,49,High
+Cataract surgery,0,20,13,High
+Hernia repair,9,4,46,High
+Cataract surgery,1,29,4,High
+Cholecystectomy,7,18,35,High
+Cholecystectomy,0,30,31,High
+Coronary artery bypass graft (CABG),7,9,33,High
+Cesarean section,7,14,6,Mid
+Hernia repair,1,9,41,High
+Appendectomy,3,26,47,High
+Hip replacement,5,15,9,Mid
+Cataract surgery,10,11,49,High
+Cesarean section,8,17,16,Mid
+Coronary artery bypass graft (CABG),7,22,29,High
+Knee arthroscopy,7,0,20,Mid
+Appendectomy,6,15,12,Mid
+Prostatectomy,8,21,0,High
+Cesarean section,1,5,0,Low
+Knee arthroscopy,2,2,46,High
+Hernia repair,9,1,32,High
+Coronary artery bypass graft (CABG),7,27,37,High
+Appendectomy,5,1,24,Mid
+Appendectomy,9,29,25,High
+Appendectomy,8,12,12,Mid
+Hernia repair,9,8,27,Mid
+Cataract surgery,3,15,32,High
+Prostatectomy,7,26,36,High
+Hernia repair,9,4,40,High
+Hip replacement,2,22,29,High
+Prostatectomy,2,27,48,High
+Cholecystectomy,7,20,47,High
+Coronary artery bypass graft (CABG),4,6,7,Low
+Hernia repair,2,12,48,High
+Knee arthroscopy,9,19,46,High
+Prostatectomy,10,23,0,High
+Hip replacement,0,28,11,High
+Cholecystectomy,2,26,4,High
+Cataract surgery,8,29,23,High
+Knee arthroscopy,4,25,5,High
+Prostatectomy,9,12,24,Mid
+Coronary artery bypass graft (CABG),1,26,0,High
+Knee arthroscopy,6,25,24,High
+Cholecystectomy,1,6,0,Low
+Knee arthroscopy,3,9,31,High
+Hysterectomy,6,14,41,High
+Cesarean section,3,20,41,High
+Cataract surgery,6,26,2,High
+Cholecystectomy,6,5,48,High
+Knee arthroscopy,0,4,18,Low
+Cesarean section,5,22,42,High
+Cesarean section,8,27,28,High
+Knee arthroscopy,1,1,49,High
+Coronary artery bypass graft (CABG),2,20,1,High
+Hysterectomy,9,14,8,Mid
+Hernia repair,4,25,16,High
+Hysterectomy,8,15,45,High
+Knee arthroscopy,3,30,35,High
+Cataract surgery,0,18,16,Mid
+Hernia repair,3,8,48,High
+Cholecystectomy,5,28,11,High
+Hysterectomy,4,21,19,High
+Knee arthroscopy,0,28,49,High
+Hysterectomy,3,25,2,High
+Hernia repair,5,18,42,High
+Hip replacement,9,6,49,High
+Prostatectomy,9,3,3,Low
+Hysterectomy,3,29,16,High
+Cholecystectomy,8,2,49,High
+Cholecystectomy,4,23,36,High
+Appendectomy,7,28,45,High
+Hysterectomy,8,19,41,High
+Prostatectomy,9,10,14,Mid
+Coronary artery bypass graft (CABG),4,0,32,High
+Cesarean section,5,5,15,Low
+Prostatectomy,0,25,10,High
+Cesarean section,10,10,19,Mid
+Cesarean section,6,26,37,High
+Hip replacement,3,0,23,Mid
+Appendectomy,10,20,15,High
+Prostatectomy,1,6,29,Mid
+Prostatectomy,4,30,33,High
+Hip replacement,2,5,0,Low
+Hysterectomy,5,13,23,Mid
+Hysterectomy,7,1,23,Mid
+Hysterectomy,6,26,8,High
+Cataract surgery,2,3,21,Mid
+Cesarean section,7,10,11,Mid
+Cataract surgery,1,14,16,Mid
+Appendectomy,9,17,24,Mid
+Hip replacement,8,26,27,High
+Prostatectomy,3,0,14,Low
+Cesarean section,0,30,29,High
+Cataract surgery,7,2,50,High
+Cataract surgery,6,2,26,Mid
+Knee arthroscopy,10,30,21,High
+Cataract surgery,4,27,9,High
+Coronary artery bypass graft (CABG),9,6,30,High
+Prostatectomy,4,0,26,Mid
+Coronary artery bypass graft (CABG),6,24,11,High
+Prostatectomy,4,10,45,High
+Hip replacement,7,5,30,High
+Prostatectomy,10,19,31,High
+Coronary artery bypass graft (CABG),5,2,31,High
+Prostatectomy,4,30,40,High
+Hip replacement,8,18,44,High
+Hip replacement,10,1,34,High
+Appendectomy,1,17,45,High
+Prostatectomy,0,29,20,High
+Knee arthroscopy,7,11,9,Mid
+Hysterectomy,2,28,15,High
+Cholecystectomy,10,9,6,Low
+Hip replacement,6,4,3,Low
+Hernia repair,9,8,26,Mid
+Hysterectomy,10,1,24,Mid
+Cesarean section,7,1,30,High
+Prostatectomy,5,27,10,High
+Coronary artery bypass graft (CABG),9,5,47,High
+Cholecystectomy,8,28,19,High
+Hernia repair,6,30,35,High
+Hysterectomy,9,9,16,Low
+Prostatectomy,4,17,44,High
+Appendectomy,7,11,10,Mid
+Cesarean section,1,3,29,Mid
+Cholecystectomy,6,21,34,High
+Knee arthroscopy,3,20,40,High
+Appendectomy,8,16,37,High
+Hernia repair,0,14,21,Mid
+Cholecystectomy,6,5,42,High
+Appendectomy,5,15,47,High
+Cesarean section,7,16,50,High
+Knee arthroscopy,4,2,26,Mid
+Appendectomy,0,9,36,High
+Cataract surgery,0,4,45,High
+Knee arthroscopy,8,13,48,High
+Hernia repair,9,25,34,High
+Cesarean section,5,28,3,High
+Prostatectomy,9,20,15,High
+Coronary artery bypass graft (CABG),4,12,15,Mid
+Coronary artery bypass graft (CABG),0,25,20,High
+Coronary artery bypass graft (CABG),5,5,25,Mid
+Cholecystectomy,5,30,35,High
+Hernia repair,2,11,18,Mid
+Cesarean section,7,25,16,High
+Knee arthroscopy,0,7,44,High
+Cholecystectomy,0,4,25,Mid
+Hernia repair,5,29,21,High
+Prostatectomy,9,14,27,Mid
+Cataract surgery,0,26,0,High
+Cesarean section,5,15,43,High
+Coronary artery bypass graft (CABG),0,0,35,High
+Appendectomy,5,15,42,High
+Cesarean section,2,4,36,High
+Hip replacement,7,2,1,Low
+Hernia repair,5,19,16,Mid
+Hysterectomy,10,14,39,High
+Prostatectomy,0,30,37,High
+Cataract surgery,4,12,20,Mid
+Prostatectomy,7,23,8,High
+Cesarean section,2,15,12,Mid
+Hysterectomy,5,22,10,High
+Hip replacement,4,10,15,Mid
+Knee arthroscopy,5,20,15,High
+Appendectomy,9,1,1,Low
+Hysterectomy,0,21,41,High
+Hernia repair,6,26,43,High
+Coronary artery bypass graft (CABG),8,5,7,Low
+Hip replacement,1,25,42,High
+Appendectomy,9,25,41,High
+Cataract surgery,4,29,12,High
+Coronary artery bypass graft (CABG),9,26,16,High
+Cesarean section,3,5,38,High
+Hysterectomy,5,13,23,Mid
+Appendectomy,5,24,2,High
+Cholecystectomy,10,10,29,Mid
+Knee arthroscopy,1,7,12,Low
+Knee arthroscopy,1,7,18,Low
+Hip replacement,3,0,6,Low
+Cataract surgery,0,20,8,High
+Hip replacement,8,6,18,Low
+Cholecystectomy,6,5,44,High
+Hernia repair,6,20,39,High
+Cataract surgery,2,7,21,Mid
+Prostatectomy,10,18,17,Mid
+Hernia repair,2,21,22,High
+Cataract surgery,0,30,1,High
+Cataract surgery,2,20,49,High
+Cholecystectomy,2,23,49,High
+Cesarean section,3,19,10,Mid
+Cholecystectomy,3,7,30,High
+Cataract surgery,2,25,32,High
+Appendectomy,9,13,13,Mid
+Hernia repair,7,30,15,High
+Cholecystectomy,7,17,10,Mid
+Cesarean section,0,24,32,High
+Hysterectomy,6,28,6,High
+Hip replacement,10,15,30,High
+Cataract surgery,1,8,47,High
+Prostatectomy,0,14,45,High
+Hysterectomy,2,29,46,High
+Knee arthroscopy,3,25,13,High
+Coronary artery bypass graft (CABG),5,9,27,Mid
+Cesarean section,9,28,42,High
+Prostatectomy,4,21,15,High
+Coronary artery bypass graft (CABG),3,15,18,Mid
+Cesarean section,7,3,16,Low
+Appendectomy,10,19,25,Mid
+Hip replacement,3,12,5,Mid
+Hysterectomy,9,21,42,High
+Hernia repair,1,4,48,High
+Cesarean section,2,21,8,High
+Hernia repair,5,6,49,High
+Hip replacement,7,22,16,High
+Cataract surgery,7,8,30,High
+Knee arthroscopy,10,7,11,Low
+Hysterectomy,8,28,22,High
+Hip replacement,6,15,4,Mid
+Hip replacement,1,5,42,High
+Appendectomy,7,27,35,High
+Coronary artery bypass graft (CABG),6,15,35,High
+Knee arthroscopy,7,5,2,Low
+Hysterectomy,2,30,23,High
+Cataract surgery,6,13,16,Mid
+Cataract surgery,9,20,38,High
+Cholecystectomy,8,0,25,Mid
+Hip replacement,2,24,3,High
+Cesarean section,9,8,44,High
+Appendectomy,5,24,11,High
+Knee arthroscopy,1,30,0,High
+Cataract surgery,1,26,20,High
+Hysterectomy,4,23,18,High
+Cholecystectomy,4,12,20,Mid
+Hysterectomy,6,25,17,High
+Appendectomy,1,28,42,High
+Cesarean section,10,18,2,Mid
+Cholecystectomy,6,16,48,High
+Cholecystectomy,4,10,43,High
+Coronary artery bypass graft (CABG),5,27,31,High
+Knee arthroscopy,7,27,9,High
+Cholecystectomy,9,7,39,High
+Coronary artery bypass graft (CABG),3,22,14,High
+Coronary artery bypass graft (CABG),6,28,4,High
+Appendectomy,5,4,3,Low
+Hernia repair,9,9,27,Mid
+Hysterectomy,1,6,50,High
+Cesarean section,7,9,3,Low
+Prostatectomy,9,3,14,Low
+Hysterectomy,8,8,16,Low
+Cholecystectomy,4,26,43,High
+Cesarean section,9,25,2,High
+Cataract surgery,3,13,9,Mid
+Hernia repair,5,1,46,High
+Cataract surgery,7,24,41,High
+Cataract surgery,10,8,22,Mid
+Knee arthroscopy,2,20,17,High
+Hysterectomy,9,26,0,High
+Prostatectomy,10,0,34,High
+Appendectomy,10,22,30,High
+Prostatectomy,0,9,43,High
+Cataract surgery,3,9,0,Low
+Cholecystectomy,3,19,2,Mid
+Hernia repair,0,24,2,High
+Hip replacement,8,21,36,High
+Prostatectomy,2,28,18,High
+Cataract surgery,4,2,28,Mid
+Hernia repair,5,5,24,Mid
+Cesarean section,7,28,32,High
+Hysterectomy,5,25,35,High
+Coronary artery bypass graft (CABG),2,5,28,Mid
+Knee arthroscopy,5,20,25,High
+Hernia repair,0,1,3,Low
+Cholecystectomy,3,25,48,High
+Cholecystectomy,5,25,13,High
+Hernia repair,6,17,49,High
+Cholecystectomy,10,22,26,High
+Hysterectomy,10,1,32,High
+Cholecystectomy,9,11,21,Mid
+Prostatectomy,2,21,47,High
+Coronary artery bypass graft (CABG),8,4,2,Low
+Cholecystectomy,6,19,22,Mid
+Coronary artery bypass graft (CABG),0,6,20,Mid
+Cataract surgery,1,23,40,High
+Appendectomy,0,15,22,Mid
+Hysterectomy,10,19,3,Mid
+Appendectomy,8,0,20,Mid
+Cataract surgery,8,0,36,High
+Hysterectomy,6,16,42,High
+Hernia repair,9,26,30,High
+Hernia repair,2,0,20,Mid
+Coronary artery bypass graft (CABG),4,20,25,High
+Cataract surgery,3,19,40,High
+Coronary artery bypass graft (CABG),6,12,34,High
+Knee arthroscopy,8,29,37,High
+Cholecystectomy,1,8,23,Mid
+Hip replacement,7,14,10,Mid
+Knee arthroscopy,8,2,40,High
+Cholecystectomy,9,13,28,Mid
+Hysterectomy,9,22,46,High
+Coronary artery bypass graft (CABG),8,10,2,Mid
+Hysterectomy,9,23,0,High
+Hysterectomy,6,21,18,High
+Cholecystectomy,8,11,45,High
+Cataract surgery,8,12,48,High
+Cholecystectomy,2,25,21,High
+Cesarean section,3,12,13,Mid
+Hernia repair,1,0,48,High
+Hernia repair,9,23,13,High
+Knee arthroscopy,2,30,43,High
+Hernia repair,10,9,15,Low
+Cholecystectomy,10,2,32,High
+Prostatectomy,4,23,12,High
+Coronary artery bypass graft (CABG),4,27,37,High
+Cholecystectomy,5,3,48,High
+Cholecystectomy,6,15,11,Mid
+Hip replacement,6,7,50,High
+Coronary artery bypass graft (CABG),0,15,37,High
+Cesarean section,1,26,38,High
+Hernia repair,8,16,32,High
+Coronary artery bypass graft (CABG),9,18,32,High
+Hernia repair,1,21,28,High
+Knee arthroscopy,5,14,4,Mid
+Coronary artery bypass graft (CABG),10,15,5,Mid
+Hernia repair,10,14,30,High
+Cesarean section,0,24,15,High
+Appendectomy,2,1,30,High
+Hysterectomy,1,10,24,Mid
+Hysterectomy,2,0,47,High
+Cesarean section,4,14,45,High
+Hip replacement,10,25,32,High
+Appendectomy,9,18,12,Mid
+Knee arthroscopy,5,3,9,Low
+Cesarean section,8,10,23,Mid
+Hysterectomy,10,4,9,Low
+Hysterectomy,9,2,40,High
+Hysterectomy,3,12,30,High
+Cataract surgery,6,9,12,Low
+Cesarean section,5,10,2,Mid
+Cholecystectomy,1,17,49,High
+Knee arthroscopy,9,1,33,High
+Hysterectomy,10,6,48,High
+Hernia repair,10,8,27,Mid
+Cesarean section,10,9,18,Low
+Cataract surgery,7,17,22,Mid
+Cesarean section,6,22,44,High
+Knee arthroscopy,6,6,31,High
+Cataract surgery,7,26,12,High
+Knee arthroscopy,10,6,32,High
+Cesarean section,0,2,33,High
+Cholecystectomy,0,11,32,High
+Knee arthroscopy,7,6,4,Low
+Cataract surgery,3,16,2,Mid
+Cataract surgery,4,25,6,High
+Knee arthroscopy,7,0,23,Mid
+Prostatectomy,4,4,21,Mid
+Cesarean section,9,15,44,High
+Prostatectomy,3,14,22,Mid
+Hip replacement,5,1,29,Mid
+Cesarean section,4,8,17,Low
+Knee arthroscopy,6,30,31,High
+Appendectomy,9,6,6,Low
+Knee arthroscopy,6,3,32,High
+Prostatectomy,3,19,4,Mid
+Cholecystectomy,4,17,48,High
+Knee arthroscopy,2,20,27,High
+Knee arthroscopy,3,3,7,Low
+Cholecystectomy,3,27,14,High
+Knee arthroscopy,2,12,3,Mid
+Hysterectomy,9,0,33,High
+Appendectomy,4,27,4,High
+Hernia repair,4,23,32,High
+Appendectomy,10,2,4,Low
+Knee arthroscopy,6,15,37,High
+Hysterectomy,3,29,33,High
+Cesarean section,3,21,25,High
+Knee arthroscopy,8,3,0,Low
+Prostatectomy,5,24,3,High
+Hysterectomy,3,22,38,High
+Cholecystectomy,1,24,25,High
+Hysterectomy,5,15,32,High
+Cholecystectomy,1,25,32,High
+Hip replacement,4,18,7,Mid
+Hernia repair,5,0,19,Low
+Coronary artery bypass graft (CABG),3,4,15,Low
+Hysterectomy,2,18,20,Mid
+Cataract surgery,6,21,44,High
+Prostatectomy,1,23,25,High
+Knee arthroscopy,10,10,22,Mid
+Prostatectomy,5,12,17,Mid
+Appendectomy,3,19,30,High
+Coronary artery bypass graft (CABG),5,4,41,High
+Appendectomy,3,20,11,High
+Hip replacement,3,3,0,Low
+Coronary artery bypass graft (CABG),3,3,41,High
+Coronary artery bypass graft (CABG),8,3,8,Low
+Appendectomy,6,3,2,Low
+Cholecystectomy,2,19,50,High
+Appendectomy,2,20,25,High
+Prostatectomy,5,17,8,Mid
+Cholecystectomy,5,17,41,High
+Prostatectomy,3,15,50,High
+Hip replacement,8,8,15,Low
+Knee arthroscopy,3,17,23,Mid
+Cesarean section,8,21,49,High
+Cholecystectomy,3,1,13,Low
+Hip replacement,1,20,2,High
+Cataract surgery,1,3,33,High
+Hip replacement,4,11,32,High
+Appendectomy,3,6,49,High
+Appendectomy,6,14,23,Mid
+Cesarean section,10,6,8,Low
+Hip replacement,4,28,12,High
+Hernia repair,5,21,1,High
+Knee arthroscopy,9,25,6,High
+Appendectomy,3,20,47,High
+Cesarean section,1,16,20,Mid
+Knee arthroscopy,9,15,18,Mid
+Hip replacement,8,27,24,High
+Hip replacement,9,30,46,High
+Coronary artery bypass graft (CABG),6,18,21,Mid
+Cesarean section,3,8,10,Low
+Appendectomy,2,30,32,High
+Hernia repair,9,13,31,High
+Hip replacement,2,16,20,Mid
+Hernia repair,8,4,38,High
+Hip replacement,4,1,19,Low
+Appendectomy,2,19,7,Mid
+Knee arthroscopy,4,15,41,High
+Hysterectomy,1,13,36,High
+Knee arthroscopy,10,13,8,Mid
+Hip replacement,3,26,24,High
+Prostatectomy,9,0,24,Mid
+Hysterectomy,1,2,32,High
+Hysterectomy,1,25,1,High
+Hernia repair,7,6,18,Low
+Cesarean section,0,25,45,High
+Hernia repair,6,14,19,Mid
+Hernia repair,4,18,41,High
+Prostatectomy,10,19,40,High
+Knee arthroscopy,7,1,41,High
+Knee arthroscopy,0,18,28,Mid
+Cataract surgery,10,8,5,Low
+Hip replacement,6,18,16,Mid
+Prostatectomy,4,26,24,High
+Cataract surgery,3,4,37,High
+Appendectomy,6,17,3,Mid
+Hip replacement,9,15,29,Mid
+Hip replacement,1,3,19,Low
+Coronary artery bypass graft (CABG),0,11,2,Mid
+Coronary artery bypass graft (CABG),0,28,22,High
+Cholecystectomy,10,6,50,High
+Cholecystectomy,0,13,17,Mid
+Hernia repair,4,22,25,High
+Appendectomy,9,11,35,High
+Hysterectomy,6,2,7,Low
+Hysterectomy,1,4,16,Low
+Coronary artery bypass graft (CABG),9,16,30,High
+Coronary artery bypass graft (CABG),7,25,36,High
+Coronary artery bypass graft (CABG),3,9,44,High
+Prostatectomy,2,9,32,High
+Cesarean section,9,10,26,Mid
+Cholecystectomy,10,16,44,High
+Prostatectomy,7,4,3,Low
+Knee arthroscopy,1,12,21,Mid
+Hysterectomy,10,9,25,Mid
+Hip replacement,10,8,31,High
+Cholecystectomy,2,16,23,Mid
+Cataract surgery,2,0,45,High
+Knee arthroscopy,9,3,34,High
+Cholecystectomy,10,3,36,High
+Prostatectomy,0,17,31,High
+Appendectomy,5,8,6,Low
+Hip replacement,1,29,32,High
+Cholecystectomy,0,24,30,High
+Cesarean section,1,28,11,High
+Coronary artery bypass graft (CABG),5,28,10,High
+Coronary artery bypass graft (CABG),3,17,23,Mid
+Hip replacement,5,13,7,Mid
+Prostatectomy,8,24,31,High
+Coronary artery bypass graft (CABG),9,14,37,High
+Cholecystectomy,9,5,21,Mid
+Cataract surgery,7,23,33,High
+Hysterectomy,0,9,18,Low
+Hysterectomy,7,28,19,High
+Knee arthroscopy,8,14,13,Mid
+Hernia repair,5,28,32,High
+Appendectomy,9,3,9,Low
+Hip replacement,4,17,15,Mid
+Knee arthroscopy,5,17,3,Mid
+Hernia repair,5,24,26,High
+Prostatectomy,8,16,27,Mid
+Cesarean section,3,11,42,High
+Cesarean section,1,6,15,Low
+Appendectomy,10,15,32,High
+Coronary artery bypass graft (CABG),10,10,47,High
+Cholecystectomy,8,13,18,Mid
+Knee arthroscopy,1,2,20,Mid
+Knee arthroscopy,9,18,21,Mid
+Hip replacement,8,17,8,Mid
+Hip replacement,1,29,8,High
+Cesarean section,7,9,8,Low
+Cesarean section,8,5,26,Mid
+Cataract surgery,9,12,16,Mid
+Cataract surgery,8,9,43,High
+Coronary artery bypass graft (CABG),9,17,44,High
+Cataract surgery,8,25,7,High
+Cholecystectomy,1,30,15,High
+Cholecystectomy,3,19,17,Mid
+Knee arthroscopy,6,25,32,High
+Hysterectomy,1,15,0,Mid
+Cholecystectomy,0,24,11,High
+Hernia repair,2,24,5,High
+Cesarean section,3,5,40,High
+Hip replacement,7,12,4,Mid
+Cataract surgery,5,3,15,Low
+Knee arthroscopy,10,22,17,High
+Appendectomy,1,13,48,High
+Hip replacement,8,0,17,Low
+Hernia repair,1,27,0,High
+Cataract surgery,4,19,18,Mid
+Hernia repair,3,4,7,Low
+Cesarean section,6,7,2,Low
+Cesarean section,7,11,24,Mid
+Coronary artery bypass graft (CABG),4,1,4,Low
+Knee arthroscopy,9,11,39,High
+Hip replacement,4,4,18,Low
+Prostatectomy,1,21,17,High
+Prostatectomy,7,4,49,High
+Hip replacement,1,30,30,High
+Appendectomy,9,12,32,High
+Knee arthroscopy,5,8,46,High
+Hernia repair,7,9,17,Low
+Appendectomy,5,0,38,High
+Hysterectomy,3,29,15,High
+Hip replacement,3,2,15,Low
+Hernia repair,5,29,46,High
+Prostatectomy,3,17,37,High
+Cholecystectomy,7,11,40,High
+Coronary artery bypass graft (CABG),8,28,6,High
+Prostatectomy,0,2,13,Low
+Knee arthroscopy,3,25,42,High
+Cesarean section,3,24,47,High
+Cholecystectomy,1,28,24,High
+Coronary artery bypass graft (CABG),5,29,31,High
+Coronary artery bypass graft (CABG),2,8,37,High
+Hysterectomy,6,25,21,High
+Hysterectomy,10,1,15,Low
+Cataract surgery,10,29,28,High
+Prostatectomy,4,2,15,Low
+Prostatectomy,3,13,11,Mid
+Prostatectomy,4,3,16,Low
+Cataract surgery,7,24,36,High
+Appendectomy,2,18,26,Mid
+Coronary artery bypass graft (CABG),6,12,24,Mid
+Cholecystectomy,5,6,12,Low
+Knee arthroscopy,0,11,7,Mid
+Coronary artery bypass graft (CABG),6,2,4,Low
+Hysterectomy,6,22,11,High
+Hernia repair,0,22,40,High
+Cesarean section,8,8,2,Low
+Cataract surgery,5,1,34,High
+Hip replacement,1,28,32,High
+Hernia repair,4,21,21,High
+Knee arthroscopy,10,8,49,High
+Prostatectomy,3,11,43,High
+Hysterectomy,6,30,8,High
+Hysterectomy,7,11,40,High
+Hysterectomy,10,14,17,Mid
+Prostatectomy,10,1,49,High
+Hip replacement,0,17,28,Mid
+Cataract surgery,4,12,38,High
+Hernia repair,2,13,26,Mid
+Prostatectomy,0,4,35,High
+Knee arthroscopy,2,25,44,High
+Cataract surgery,5,9,16,Low
+Knee arthroscopy,6,11,33,High
+Cataract surgery,7,9,45,High
+Hip replacement,10,23,2,High
+Cesarean section,3,10,4,Mid
+Knee arthroscopy,2,30,13,High
+Prostatectomy,4,24,2,High
+Cataract surgery,8,1,22,Mid
+Hysterectomy,5,4,38,High
+Coronary artery bypass graft (CABG),8,29,29,High
+Hysterectomy,5,6,49,High
+Appendectomy,1,30,44,High
+Cesarean section,4,5,22,Mid
+Cesarean section,10,21,26,High
+Hysterectomy,8,22,9,High
+Hernia repair,7,2,24,Mid
+Hip replacement,6,12,12,Mid
+Knee arthroscopy,0,2,15,Low
+Prostatectomy,3,25,40,High
+Cesarean section,6,24,33,High
+Hysterectomy,10,29,36,High
+Hysterectomy,6,23,21,High
+Hip replacement,5,20,16,High
+Hip replacement,7,5,22,Mid
+Cholecystectomy,10,10,35,High
+Cholecystectomy,5,27,48,High
+Hernia repair,9,25,8,High
+Hernia repair,2,16,1,Mid
+Appendectomy,3,9,31,High
+Hernia repair,2,11,49,High
+Cataract surgery,0,16,21,Mid
+Hip replacement,9,3,42,High
+Prostatectomy,4,1,12,Low
+Cataract surgery,0,10,7,Mid
+Knee arthroscopy,0,6,0,Low
+Hysterectomy,1,1,16,Low
+Hernia repair,3,25,11,High
+Hysterectomy,5,17,3,Mid
+Cesarean section,7,20,12,High
+Appendectomy,2,3,30,High
+Cesarean section,0,7,40,High
+Appendectomy,2,19,6,Mid
+Cholecystectomy,2,13,22,Mid
+Hysterectomy,4,11,23,Mid
+Appendectomy,10,21,4,High
+Coronary artery bypass graft (CABG),3,20,4,High
+Cataract surgery,3,26,16,High
+Appendectomy,8,29,29,High
+Appendectomy,6,17,8,Mid
+Cataract surgery,3,10,5,Mid
+Hysterectomy,2,30,24,High
+Hysterectomy,5,28,18,High
+Cataract surgery,2,27,15,High
+Cesarean section,5,29,20,High
+Coronary artery bypass graft (CABG),10,7,1,Low
+Prostatectomy,10,1,9,Low
+Knee arthroscopy,8,24,15,High
+Coronary artery bypass graft (CABG),5,14,36,High
+Hysterectomy,3,8,14,Low
+Prostatectomy,4,18,12,Mid
+Cholecystectomy,5,19,12,Mid
+Hernia repair,10,7,31,High
+Appendectomy,2,24,44,High
+Cataract surgery,7,18,46,High
+Cataract surgery,3,4,45,High
+Appendectomy,7,10,7,Mid
+Hernia repair,9,14,42,High
+Knee arthroscopy,9,7,17,Low
+Hernia repair,2,18,35,High
+Prostatectomy,9,22,25,High
+Hernia repair,6,26,9,High
+Prostatectomy,10,7,30,High
+Hernia repair,8,25,32,High
+Knee arthroscopy,3,26,28,High
+Knee arthroscopy,7,29,4,High
+Hysterectomy,2,18,12,Mid
+Appendectomy,6,17,0,Mid
+Knee arthroscopy,2,9,22,Mid
+Prostatectomy,6,28,39,High
+Knee arthroscopy,10,6,2,Low
+Hysterectomy,9,27,2,High
+Cataract surgery,9,8,6,Low
+Prostatectomy,10,0,35,High
+Hysterectomy,10,18,34,High
+Cesarean section,5,4,14,Low
+Cesarean section,1,18,39,High
+Cholecystectomy,10,0,2,Low
+Hernia repair,2,14,28,Mid
+Appendectomy,5,15,29,Mid
+Hip replacement,3,22,38,High
+Coronary artery bypass graft (CABG),5,6,17,Low
+Hysterectomy,0,25,10,High
+Cataract surgery,9,11,42,High
+Coronary artery bypass graft (CABG),0,7,48,High
+Cataract surgery,2,4,37,High
+Coronary artery bypass graft (CABG),7,9,39,High
+Hysterectomy,7,27,0,High
+Hip replacement,10,20,28,High
+Coronary artery bypass graft (CABG),3,4,9,Low
+Hysterectomy,5,16,27,Mid
+Knee arthroscopy,7,25,30,High
+Hip replacement,6,4,18,Low
+Prostatectomy,10,21,2,High
+Cataract surgery,6,14,35,High
+Cesarean section,3,12,42,High
+Hernia repair,8,27,14,High
+Cesarean section,9,0,32,High
+Hip replacement,5,10,40,High
+Prostatectomy,10,22,42,High
+Cataract surgery,2,0,50,High
+Prostatectomy,4,10,44,High
+Coronary artery bypass graft (CABG),4,17,25,Mid
+Cataract surgery,4,17,15,Mid
+Coronary artery bypass graft (CABG),7,20,35,High
+Hysterectomy,8,29,32,High
+Hip replacement,8,25,19,High
+Hysterectomy,5,15,12,Mid
+Cholecystectomy,5,12,32,High
+Prostatectomy,8,6,4,Low
+Coronary artery bypass graft (CABG),3,0,36,High
+Knee arthroscopy,5,25,13,High
+Hysterectomy,3,15,26,Mid
+Cholecystectomy,10,0,22,Mid
+Appendectomy,0,16,13,Mid
+Cesarean section,6,5,39,High
+Cataract surgery,9,1,3,Low
+Cholecystectomy,10,16,38,High
+Hip replacement,5,5,18,Low
+Hysterectomy,8,13,46,High
+Hip replacement,6,17,3,Mid
+Cesarean section,6,5,29,Mid
+Knee arthroscopy,1,9,18,Low
+Prostatectomy,10,23,30,High
+Prostatectomy,8,17,30,High
+Hip replacement,9,26,8,High
+Coronary artery bypass graft (CABG),8,8,12,Low
+Knee arthroscopy,5,7,13,Low
+Prostatectomy,2,27,45,High
+Knee arthroscopy,0,9,9,Low
+Cholecystectomy,3,16,47,High
+Knee arthroscopy,2,22,30,High
+Hernia repair,0,29,36,High
+Cesarean section,2,28,22,High
+Prostatectomy,3,25,26,High
+Knee arthroscopy,7,5,5,Low
+Hip replacement,8,13,25,Mid
+Appendectomy,2,21,1,High
+Hernia repair,5,21,44,High
+Hernia repair,9,5,12,Low
+Coronary artery bypass graft (CABG),10,25,50,High
+Knee arthroscopy,4,6,49,High
+Coronary artery bypass graft (CABG),5,11,18,Mid
+Coronary artery bypass graft (CABG),3,2,0,Low
+Appendectomy,9,13,39,High
+Cholecystectomy,5,21,31,High
+Knee arthroscopy,6,18,21,Mid
+Hysterectomy,8,22,47,High
+Prostatectomy,9,15,28,Mid
+Coronary artery bypass graft (CABG),6,6,1,Low
+Cesarean section,5,7,39,High
+Cataract surgery,0,17,37,High
+Cesarean section,1,24,47,High
+Appendectomy,0,12,10,Mid
+Appendectomy,8,20,16,High
+Hip replacement,9,8,50,High
+Cholecystectomy,9,9,42,High
+Prostatectomy,8,20,7,High
+Coronary artery bypass graft (CABG),6,22,21,High
+Cesarean section,1,26,3,High
+Cataract surgery,5,8,10,Low
+Appendectomy,10,14,7,Mid
+Appendectomy,3,19,8,Mid
+Cholecystectomy,0,1,25,Mid
+Cataract surgery,0,24,1,High
+Cataract surgery,4,12,15,Mid
+Cholecystectomy,1,1,30,High
+Appendectomy,3,18,5,Mid
+Prostatectomy,0,25,20,High
+Knee arthroscopy,3,1,25,Mid
+Knee arthroscopy,10,2,18,Low
+Cholecystectomy,5,5,27,Mid
+Cataract surgery,9,2,7,Low
+Coronary artery bypass graft (CABG),3,30,13,High
+Cholecystectomy,0,9,23,Mid
+Prostatectomy,6,23,47,High
+Cholecystectomy,1,26,43,High
+Hernia repair,8,5,36,High
+Cesarean section,2,22,25,High
+Cataract surgery,7,15,30,High
+Hip replacement,7,16,50,High
+Hip replacement,2,18,31,High
+Cataract surgery,3,2,49,High
+Prostatectomy,1,17,40,High
+Hernia repair,3,6,1,Low
+Hernia repair,10,8,24,Mid
+Appendectomy,10,19,43,High
+Cesarean section,10,11,1,Mid
+Knee arthroscopy,8,4,41,High
+Hysterectomy,1,2,0,Low
+Prostatectomy,2,10,35,High
+Hysterectomy,10,24,11,High
+Hysterectomy,10,29,8,High
+Cataract surgery,3,3,35,High
+Hip replacement,4,4,40,High
+Hip replacement,0,0,27,Mid
+Knee arthroscopy,6,26,37,High
+Cataract surgery,9,27,32,High
+Hysterectomy,6,30,41,High
+Coronary artery bypass graft (CABG),8,28,45,High
+Hip replacement,3,17,21,Mid
+Prostatectomy,5,11,24,Mid
+Prostatectomy,10,12,17,Mid
+Appendectomy,1,8,5,Low
+Cholecystectomy,3,1,17,Low
+Coronary artery bypass graft (CABG),1,4,15,Low
+Hip replacement,9,12,14,Mid
+Hernia repair,4,15,47,High
+Hip replacement,6,15,7,Mid
+Appendectomy,0,23,12,High
+Prostatectomy,9,2,42,High
+Hysterectomy,9,21,6,High
+Hernia repair,6,3,16,Low
+Cataract surgery,9,10,49,High
+Cesarean section,5,22,31,High
+Hysterectomy,5,25,21,High
+Cesarean section,7,13,50,High
+Coronary artery bypass graft (CABG),7,28,12,High
+Cholecystectomy,5,2,46,High
+Hernia repair,2,15,22,Mid
+Knee arthroscopy,4,21,28,High
+Hernia repair,1,14,21,Mid
+Hip replacement,4,27,0,High
+Prostatectomy,8,30,28,High
+Hip replacement,9,9,47,High
+Hip replacement,0,8,4,Low
+Coronary artery bypass graft (CABG),9,10,34,High
+Hysterectomy,4,15,9,Mid
+Knee arthroscopy,5,9,18,Low
+Knee arthroscopy,10,16,36,High
+Hip replacement,6,18,6,Mid
+Cesarean section,8,1,45,High
+Coronary artery bypass graft (CABG),5,23,34,High
+Hip replacement,4,22,44,High
+Cholecystectomy,6,1,12,Low
+Prostatectomy,0,5,9,Low
+Hysterectomy,10,30,1,High
+Cataract surgery,4,18,5,Mid
+Cholecystectomy,1,7,7,Low
+Cesarean section,3,25,35,High
+Hernia repair,6,28,24,High
+Hernia repair,4,2,43,High
+Cholecystectomy,5,25,46,High
+Hip replacement,1,13,39,High
+Cataract surgery,2,24,6,High
+Appendectomy,6,15,45,High
+Appendectomy,10,0,22,Mid
+Cesarean section,1,20,18,High
+Hip replacement,5,2,45,High
+Knee arthroscopy,4,21,21,High
+Knee arthroscopy,9,25,12,High
+Hysterectomy,0,17,20,Mid
+Cataract surgery,10,8,0,Low
+Cataract surgery,9,5,18,Low
+Hernia repair,10,22,32,High
+Coronary artery bypass graft (CABG),3,20,3,High
+Cesarean section,10,24,41,High
+Appendectomy,1,0,2,Low
+Cesarean section,3,20,26,High
+Knee arthroscopy,0,26,40,High
+Knee arthroscopy,1,9,34,High
+Cholecystectomy,7,26,27,High
+Hysterectomy,5,5,5,Low
+Cataract surgery,1,22,5,High
+Prostatectomy,5,11,43,High
+Cesarean section,9,3,22,Mid
+Knee arthroscopy,8,27,32,High
+Coronary artery bypass graft (CABG),6,12,15,Mid
+Hernia repair,8,16,23,Mid
+Appendectomy,4,30,4,High
+Hysterectomy,6,26,40,High
+Coronary artery bypass graft (CABG),10,7,41,High
+Hysterectomy,6,25,12,High
+Cholecystectomy,2,19,46,High
+Prostatectomy,6,2,11,Low
+Knee arthroscopy,0,11,4,Mid
+Hernia repair,8,6,36,High
+Coronary artery bypass graft (CABG),9,11,30,High
+Hysterectomy,5,1,27,Mid
+Cataract surgery,4,23,27,High
+Cholecystectomy,6,13,29,Mid
+Cataract surgery,4,21,17,High
+Hernia repair,9,22,43,High
+Coronary artery bypass graft (CABG),4,29,26,High
+Cholecystectomy,10,4,34,High
+Coronary artery bypass graft (CABG),9,8,25,Mid
+Knee arthroscopy,10,20,38,High
+Hip replacement,6,10,48,High
+Cholecystectomy,9,4,50,High
+Cataract surgery,6,2,17,Low
+Hernia repair,10,26,32,High
+Prostatectomy,2,16,24,Mid
+Knee arthroscopy,2,1,30,High
+Hip replacement,9,23,36,High
+Prostatectomy,2,30,1,High
+Appendectomy,5,0,32,High
+Knee arthroscopy,5,6,38,High
+Hernia repair,2,29,42,High
+Hysterectomy,2,13,42,High
+Cholecystectomy,7,4,31,High
+Coronary artery bypass graft (CABG),7,18,17,Mid
+Hernia repair,6,27,16,High
+Cholecystectomy,9,27,33,High
+Prostatectomy,3,30,38,High
+Coronary artery bypass graft (CABG),3,10,6,Mid
+Cesarean section,2,22,41,High
+Cataract surgery,4,24,34,High
+Appendectomy,2,1,29,Mid
+Knee arthroscopy,7,7,11,Low
+Hernia repair,6,8,34,High
+Appendectomy,2,26,10,High
+Hysterectomy,8,2,43,High
+Cholecystectomy,4,1,3,Low
+Cholecystectomy,8,6,24,Mid
+Hernia repair,6,4,47,High
+Hip replacement,6,20,31,High
+Hip replacement,5,25,19,High
+Cesarean section,1,4,49,High
+Cataract surgery,8,19,30,High
+Coronary artery bypass graft (CABG),5,12,3,Mid
+Hysterectomy,7,20,37,High
+Appendectomy,0,28,46,High
+Hip replacement,4,19,0,Mid
+Cesarean section,0,30,2,High
+Cesarean section,9,28,36,High
+Hernia repair,10,5,21,Mid
+Hysterectomy,7,19,16,Mid
+Prostatectomy,7,17,13,Mid
+Coronary artery bypass graft (CABG),0,24,40,High
+Cataract surgery,8,1,34,High
+Knee arthroscopy,1,24,12,High
+Hernia repair,8,25,34,High
+Coronary artery bypass graft (CABG),0,5,42,High
+Knee arthroscopy,9,8,1,Low
+Knee arthroscopy,8,24,46,High
+Hysterectomy,3,2,12,Low
+Hysterectomy,8,0,50,High
+Appendectomy,6,0,15,Low
+Cesarean section,10,18,17,Mid
+Coronary artery bypass graft (CABG),5,4,6,Low
+Hernia repair,4,12,44,High
+Cholecystectomy,10,18,35,High
+Hernia repair,8,11,40,High
+Appendectomy,1,15,29,Mid
+Cataract surgery,10,24,41,High
+Cesarean section,1,24,40,High
+Cholecystectomy,10,18,6,Mid
+Hip replacement,8,2,14,Low
+Cataract surgery,2,11,39,High
+Hysterectomy,7,29,18,High
+Knee arthroscopy,10,4,42,High
+Hip replacement,8,1,36,High
+Hernia repair,7,21,1,High
+Hernia repair,3,6,41,High
+Hysterectomy,0,12,47,High
+Appendectomy,3,24,12,High
+Coronary artery bypass graft (CABG),8,14,39,High
+Hip replacement,1,21,40,High
+Hip replacement,2,2,42,High
+Prostatectomy,9,27,42,High
+Cataract surgery,7,20,30,High
+Cesarean section,5,19,15,Mid
+Cataract surgery,7,30,41,High
+Coronary artery bypass graft (CABG),6,4,43,High
+Hernia repair,4,23,5,High
+Hernia repair,8,7,27,Mid
+Hernia repair,3,21,31,High
+Prostatectomy,5,0,43,High
+Hernia repair,1,7,9,Low
+Coronary artery bypass graft (CABG),1,23,49,High
+Hysterectomy,1,17,17,Mid
+Cesarean section,9,19,3,Mid
+Coronary artery bypass graft (CABG),6,27,8,High
+Cesarean section,1,15,6,Mid
+Coronary artery bypass graft (CABG),1,17,49,High
+Hernia repair,8,19,7,Mid
+Hysterectomy,6,11,42,High
+Hip replacement,10,12,6,Mid
+Cataract surgery,2,12,40,High
+Knee arthroscopy,2,9,39,High
+Hysterectomy,6,6,2,Low
+Hip replacement,4,24,16,High
+Appendectomy,9,13,1,Mid
+Coronary artery bypass graft (CABG),5,29,14,High
+Appendectomy,7,23,45,High
+Hip replacement,8,15,28,Mid
+Hysterectomy,0,14,49,High
+Coronary artery bypass graft (CABG),2,11,47,High
+Knee arthroscopy,10,8,21,Mid
+Hernia repair,6,7,3,Low
+Coronary artery bypass graft (CABG),5,17,5,Mid
+Coronary artery bypass graft (CABG),6,22,37,High
+Hysterectomy,7,17,25,Mid
+Hysterectomy,5,12,10,Mid
+Hip replacement,2,27,25,High
+Cholecystectomy,1,26,16,High
+Coronary artery bypass graft (CABG),6,17,23,Mid
+Cataract surgery,10,14,27,Mid
+Coronary artery bypass graft (CABG),0,3,34,High
+Hip replacement,2,16,30,High
+Cesarean section,10,30,12,High
+Appendectomy,3,4,34,High
+Hernia repair,0,21,15,High
+Cholecystectomy,4,15,14,Mid
+Knee arthroscopy,9,8,42,High
+Knee arthroscopy,2,9,17,Low
+Knee arthroscopy,1,23,46,High
+Hysterectomy,2,17,36,High
+Knee arthroscopy,7,16,47,High
+Hernia repair,5,17,47,High
+Appendectomy,6,6,48,High
+Knee arthroscopy,5,3,40,High
+Coronary artery bypass graft (CABG),5,25,26,High
+Coronary artery bypass graft (CABG),2,4,34,High
+Hysterectomy,7,27,44,High
+Hernia repair,6,22,34,High
+Appendectomy,6,15,27,Mid
+Cholecystectomy,5,2,38,High
+Hip replacement,4,25,37,High
+Appendectomy,9,17,8,Mid
+Hip replacement,7,28,11,High
+Cesarean section,4,22,14,High
+Hip replacement,8,20,20,High
+Cataract surgery,8,13,34,High
+Coronary artery bypass graft (CABG),0,14,41,High
+Hernia repair,5,16,32,High
+Prostatectomy,6,0,50,High
+Hysterectomy,2,24,18,High
+Cataract surgery,6,20,22,High
+Hip replacement,10,16,12,Mid
+Knee arthroscopy,10,22,43,High
+Hernia repair,6,24,0,High
+Cataract surgery,10,10,50,High
+Hysterectomy,1,16,28,Mid
+Coronary artery bypass graft (CABG),6,25,23,High
+Hernia repair,0,13,15,Mid
+Hysterectomy,4,28,24,High
+Cesarean section,8,19,22,Mid
+Cesarean section,6,29,27,High
+Hysterectomy,6,18,46,High
+Cataract surgery,10,20,15,High
+Hernia repair,1,6,42,High
+Cataract surgery,7,23,37,High
+Cholecystectomy,2,12,10,Mid
+Hip replacement,7,17,2,Mid
+Cholecystectomy,2,22,14,High
+Cesarean section,9,29,0,High
+Coronary artery bypass graft (CABG),6,13,6,Mid
+Appendectomy,1,0,0,Low
+Hip replacement,3,6,48,High
+Cesarean section,10,7,31,High
+Cataract surgery,5,17,8,Mid
+Cataract surgery,10,8,28,Mid
+Cataract surgery,8,0,25,Mid
+Coronary artery bypass graft (CABG),4,28,22,High
+Cholecystectomy,8,21,44,High
+Appendectomy,4,16,42,High
+Cataract surgery,9,18,28,Mid
+Prostatectomy,7,26,37,High
+Hip replacement,0,5,32,High
+Hernia repair,6,2,6,Low
+Prostatectomy,3,23,11,High
+Appendectomy,4,4,30,High
+Coronary artery bypass graft (CABG),5,1,31,High
+Appendectomy,4,19,19,Mid
+Hernia repair,0,24,50,High
+Hip replacement,8,3,16,Low
+Hernia repair,1,9,35,High
+Hysterectomy,8,9,2,Low
+Hip replacement,9,23,0,High
+Appendectomy,1,20,49,High
+Cataract surgery,8,10,26,Mid
+Appendectomy,5,26,46,High
+Appendectomy,10,15,39,High
+Hip replacement,8,25,32,High
+Hysterectomy,5,28,19,High
+Appendectomy,5,28,13,High
+Prostatectomy,10,29,35,High
+Cesarean section,1,30,4,High
+Knee arthroscopy,7,16,22,Mid
+Knee arthroscopy,2,15,44,High
+Appendectomy,6,6,14,Low
+Prostatectomy,4,15,5,Mid
+Cataract surgery,2,2,32,High
+Coronary artery bypass graft (CABG),0,25,18,High
+Coronary artery bypass graft (CABG),7,15,12,Mid
+Hip replacement,2,7,28,Mid
+Knee arthroscopy,1,29,5,High
+Appendectomy,0,11,14,Mid
+Coronary artery bypass graft (CABG),3,2,15,Low
+Appendectomy,7,16,23,Mid
+Hip replacement,2,20,22,High
+Knee arthroscopy,0,17,47,High
+Hernia repair,3,10,9,Mid
+Cesarean section,8,3,40,High
+Cesarean section,0,15,40,High
+Coronary artery bypass graft (CABG),10,16,48,High
+Cesarean section,1,8,16,Low
+Hernia repair,8,5,48,High
+Appendectomy,1,23,43,High
+Hip replacement,2,26,44,High
+Hernia repair,6,19,29,Mid
+Hip replacement,2,24,43,High
+Hip replacement,8,1,45,High
+Knee arthroscopy,5,8,9,Low
+Appendectomy,2,27,18,High
+Prostatectomy,8,20,28,High
+Cesarean section,0,28,1,High
+Prostatectomy,9,5,35,High
+Knee arthroscopy,2,2,18,Low
+Hip replacement,0,19,6,Mid
+Coronary artery bypass graft (CABG),1,5,25,Mid
+Cesarean section,7,6,14,Low
+Cesarean section,6,0,46,High
+Appendectomy,1,22,37,High
+Hysterectomy,1,0,2,Low
+Cholecystectomy,8,4,37,High
+Cholecystectomy,5,5,15,Low
+Cholecystectomy,4,12,1,Mid
+Hysterectomy,9,1,30,High
+Appendectomy,5,14,27,Mid
+Hysterectomy,8,14,6,Mid
+Cholecystectomy,10,12,29,Mid
+Knee arthroscopy,6,25,42,High
+Hernia repair,9,24,6,High
+Hip replacement,9,13,35,High
+Hysterectomy,8,25,28,High
+Appendectomy,3,21,23,High
+Appendectomy,1,6,38,High
+Prostatectomy,7,13,3,Mid
+Hernia repair,3,30,28,High
+Coronary artery bypass graft (CABG),8,25,43,High
+Cesarean section,3,30,4,High
+Cholecystectomy,7,23,28,High
+Coronary artery bypass graft (CABG),8,26,29,High
+Prostatectomy,8,30,28,High
+Cholecystectomy,9,28,25,High
+Hernia repair,3,9,18,Low
+Prostatectomy,0,16,25,Mid
+Cholecystectomy,2,13,36,High
+Hernia repair,8,7,26,Mid
+Cataract surgery,3,3,29,Mid
+Coronary artery bypass graft (CABG),4,25,50,High
+Coronary artery bypass graft (CABG),6,15,29,Mid
+Cesarean section,4,23,2,High
+Hernia repair,3,12,42,High
+Hysterectomy,1,30,6,High
+Cataract surgery,1,21,48,High
+Knee arthroscopy,3,26,8,High
+Cholecystectomy,9,24,40,High
+Cataract surgery,9,26,41,High
+Hernia repair,8,19,12,Mid
+Hip replacement,7,17,14,Mid
+Cholecystectomy,2,13,4,Mid
+Appendectomy,8,17,28,Mid
+Coronary artery bypass graft (CABG),4,4,34,High
+Hernia repair,10,25,26,High
+Appendectomy,2,8,26,Mid
+Cesarean section,4,27,7,High
+Prostatectomy,9,2,31,High
+Knee arthroscopy,3,7,19,Low
+Knee arthroscopy,7,19,9,Mid
+Appendectomy,4,21,12,High
+Coronary artery bypass graft (CABG),9,9,28,Mid
+Cesarean section,7,21,34,High

@@ -1,0 +1,67 @@
+/* Patient List container */
+h2 {
+    font-weight: bold; 
+    font-size: 30px;    
+    font-family: poppins;
+    margin-bottom: 40px;    
+}
+
+.patient-list-container {
+    max-width: 500px;
+    margin: 0 auto;
+    padding-left: 20px; /* Adjust as needed */
+    margin-top: 55px;
+    font-family: poppins;
+}
+
+
+.img-thumbnail {
+    border-radius: 50%;
+    border: 2px solid #5DBA5D;
+    width: 80px; 
+    height: 80px;
+    object-fit: cover;  
+}
+
+.sort {
+    width: 100%;
+    border-radius: 5px;
+    border: 2px solid #5DBA5D;
+    box-sizing: border-box; /* Ensures padding does not affect width */
+}
+
+.list-group-item-heading {
+    font-weight: bold; /* Makes the text bold */
+    font-size: 17px; /* Optional: Adjust the font size as needed */
+    color: #333; /* Optional: Adjust the color to improve readability */
+}
+
+.list-group-item {
+    position: relative;
+    /* border-radius: 10px; */
+    margin-bottom: 15px;
+    padding-bottom: 5px;
+    background-color: #f5f5f5;
+    /* transition: background-color 0.3s ease; */
+    border: 0px;
+}
+
+.list-group-item::after {
+    content: '';
+    /* position: absolute; */
+    bottom: 0;
+    left: 0;
+    width: 0;
+    height: 2px;
+    background-color: #5DBA5D;  /* Green line */
+    transition: width 0.3s ease-in-out;
+}
+
+.list-group-item:hover::after,
+.list-group-item.selected::after {  /* Apply same style on hover and selected */
+    width: 100%;  /* Extend the green line across the whole width */
+}
+
+.list-group-item:hover {
+    background-color: #e0e0e0;  
+}

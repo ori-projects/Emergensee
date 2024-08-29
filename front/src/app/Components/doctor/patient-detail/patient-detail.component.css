@@ -1,0 +1,129 @@
+/* Patient Detail container */
+.patient-detail-container {
+    max-width: 440px;
+    margin: 20px auto;
+    border-radius: 20px;
+    padding: 20px;
+    /* background: #fff; */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    font-family: poppins;
+}
+
+h2 {
+    font-weight: bold; 
+    font-size: 24px;    
+    font-family: poppins;    
+}
+
+.patient-detail-container {
+    text-align: center;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.img-responsive {
+    display: block;
+    margin: 0 auto 20px auto;  
+    width: 280px; 
+    height: 280px; 
+    border-radius: 50%; 
+    border: 4px solid #5DBA5D; 
+    object-fit: cover;  
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+.form-group label {
+    display: block;
+    font-weight: bold;
+    color: #666;
+}
+
+.editable-name {
+    font-size: 18px; /* Larger font size for better readability */
+    font-weight: bold;
+    padding: 10px; 
+    border: 1px solid #ccc; /* Subtle border to indicate the field is editable */
+    border-radius: 15px; /* Rounded corners for aesthetics */
+    display: block; /* Ensures it takes the full width available */
+    /* margin: 10px 0;  */
+    background-color: #f9f9f9; /* Light background to indicate editability */
+}
+
+.editable-name:focus {
+    border-color: #5DBA5D; /* Green border on focus */
+    background-color: #fff; /* White background to increase focus visibility */
+    outline: none; /* Removes the default focus outline */
+}
+
+
+.form-group input[type="text"],
+.form-group select {
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+    border-radius: 15px;
+    border: 2px solid #5DBA5D;
+    box-sizing: border-box; /* Ensures padding does not affect width */
+}
+
+button {
+    width: 100%;
+    background-color: #5DBA5D;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: #4aa64a;
+}
+
+.button-container {
+    display: flex;
+    justify-content: space-between; /* Adjusts space between the buttons */
+    margin-top: 20px; /* Adds some space above the button container */
+}
+
+.button-container button {
+    flex: 1; /* Makes each button take equal space */
+    margin: 0 10px; /* Adds margin to the left and right of each button */
+}
+
+
+.custom-file-upload {
+    display: block;
+    width: 50%;
+    background-color: #5DBA5D;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    cursor: pointer;
+    font-size: 16px;
+    text-align: center;
+    margin: 0 auto;
+    margin-bottom: 10px;
+}
+
+.custom-file-upload:hover {
+    background-color: #4a9b4f; /* Slightly darker shade for hover effect */
+}
+
+
+.separator {
+    height: 2px; /* Defines the thickness of the line */
+    width: 100%; /* Defines the length of the line */
+    background-color: black; /* Sets the color of the line */
+    margin: 0 0; /* Space around the line */
+}
+
+input[type="file"] {
+    display: none;
+  }
+  

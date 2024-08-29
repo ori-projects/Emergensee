@@ -1,0 +1,37 @@
+<nav class="navbar navbar-default">
+    <div class="container-fluid">
+      <div class="navbar-header">
+        <a class="navbar-brand">EmergenSee</a>
+      </div>
+      <ul class="nav navbar-nav" *ngIf="!isLoginPage() && showAdminPage()">
+        <li routerLinkActive="active">
+          <a [routerLink]="['/dashboard']" [routerLinkActiveOptions]="{ exact: true }">Dashboard</a>
+        </li>
+        <li routerLinkActive="active">
+          <a [routerLink]="['/dataset']" [routerLinkActiveOptions]="{ exact: true }">Dataset</a>
+        </li>
+        <li routerLinkActive="active">
+          <a [routerLink]="['/accounts']" [routerLinkActiveOptions]="{ exact: true }">Accounts</a>
+        </li>
+      </ul>
+      <ul class="nav navbar-nav" *ngIf="!isLoginPage() && showDoctorPage()">
+        <li routerLinkActive="active">
+          <a [routerLink]="['/patients']" [routerLinkActiveOptions]="{ exact: true }">Patients</a>
+        </li>
+      </ul>
+      <div class="navbar-right" *ngIf="!isLoginPage()">
+        <div class="dropdown" (click)="toggleDropdown($event)">
+          <span class="profile-circle">
+            <img src="favicon.ico" alt="Profile" class="profile-image">
+          </span>
+          <ul class="dropdown-menu" [ngClass]="{ 'show': isDropdownOpen }">
+            <li>
+              <img src="favicon.ico" alt="Profile" class="profile-image">
+            </li>
+            <li>{{ 'Hey, ' + name }}</li>
+            <li><a (click)="logout()">Logout</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </nav>

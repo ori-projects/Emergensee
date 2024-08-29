@@ -1,0 +1,5 @@
+CREATE_MODEL_QUERY = "INSERT INTO Models (name, labeled) VALUES (%s, %s)"
+GET_MODEL_BY_ID_QUERY = "SELECT * FROM Models WHERE id = %s"
+UPDATE_MODEL_QUERY = "UPDATE Models SET name = %s, labeled = %s WHERE id = %s"
+DELETE_MODEL_QUERY = "DELETE FROM Models WHERE id = %s"
+GET_ALL_MODELS_QUERY = "SELECT * FROM Models"

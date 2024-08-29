@@ -1,0 +1,22 @@
+/* dataset container */
+.dataset-container {
+    max-width: 1200px;
+    margin: 50px auto;
+}
+
+/* Patient List container */
+.dataset-list-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding-left: 20px; /* Adjust as needed */
+}
+
+/* Additional styles for patient list */
+.list-group-item {
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.list-group-item:hover {
+    background-color: #f0f0f0; /* Light gray on hover */
+}

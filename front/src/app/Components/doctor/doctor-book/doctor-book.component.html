@@ -1,0 +1,9 @@
+<!-- doctor-book.component.html -->
+<div class="col-md-5">
+    <div class="patient-list-container">
+        <app-patient-list (selectPatient)="onSelectPatient($event)"></app-patient-list>
+    </div>
+</div>
+<div class="col-md-7">
+    <app-patient-detail [selectedPatient]="selectedPatient"></app-patient-detail>
+</div> 

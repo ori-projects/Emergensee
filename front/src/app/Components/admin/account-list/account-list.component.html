@@ -1,0 +1,55 @@
+<!-- account-list.component.html -->
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-5">
+            <div class="account-list-container">
+                <h3>Accounts:
+                    <button class="btn btn-success float-right" (click)="toggleNewAccountForm()">Create New Account</button>
+                </h3>
+                <!-- New Account Form -->
+                <div *ngIf="showNewAccountForm">
+                    <form [formGroup]="accountForm" (ngSubmit)="createAccount()">
+                        <div class="form-group">
+                            <label for="email">Email:</label>
+                            <input type="email" id="email" formControlName="email" class="form-control" placeholder="Enter email">
+                        </div>
+                        <div class="form-group">
+                            <label for="username">Username:</label>
+                            <input type="text" id="username" formControlName="username" class="form-control" placeholder="Enter username">
+                        </div>
+                        <div class="form-group">
+                            <label for="password">Password:</label>
+                            <input type="password" id="password" formControlName="password" class="form-control" placeholder="Enter password">
+                        </div>
+                        <div class="form-group">
+                            <label for="role">Role:</label>
+                            <select id="role" formControlName="role" class="form-control">
+                                <option value="admin">Admin</option>
+                                <option value="doctor">Doctor</option>
+                            </select>
+                        </div>
+                        <button type="submit" class="btn btn-primary" [disabled]="!accountForm.valid">Save New Account</button>
+                    </form>
+                </div>
+                <div class="list-group">
+                    <div *ngFor="let account of accounts" class="list-item">
+                        <a class="list-group-item clearfix" (click)="onAccountSelect(account)">
+                            <div class="pull-left">
+                                <h4 class="list-group-item-heading">{{ account.name }}</h4>
+                            </div>
+                            <div class="pull-right">
+                                <button class="btn btn-danger" (click)="showConfirmationDialog(account)">Remove</button>
+                            </div>
+                        </a>
+                        <div class="confirmation-dialog" *ngIf="account === selectedAccount && confirmDelete">
+                            <p>Are you sure you want to delete {{ account.name }}?</p>
+                            <button class="btn btn-danger" (click)="confirmDeleteAction(account)">Delete</button>
+                            <button class="btn btn-secondary" (click)="cancelDelete()">Cancel</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

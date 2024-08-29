@@ -1,0 +1,48 @@
+<div class="login-container">
+    <h2>Welcome</h2>
+    <img src="icon.png" class="favicon">
+    <form #loginForm="ngForm" (ngSubmit)="login(loginForm)">
+        <div class="form-group">
+            <label for="email">Email:</label>
+            <input 
+                type="email" 
+                id="email" 
+                name="email" 
+                [(ngModel)]="email" 
+                #emailField="ngModel"
+                required 
+                email>
+            <div *ngIf="emailField.touched && emailField.invalid">
+                <div *ngIf="emailField.errors?.['required']" class="error-message">
+                    Email is required.
+                </div>
+                <div *ngIf="emailField.errors?.['email']" class="error-message">
+                    Invalid email format.
+                </div>
+            </div>
+        </div>
+        <div class="form-group">
+            <label for="password">Password:</label>
+            <input 
+                type="password" 
+                id="password" 
+                name="password" 
+                [(ngModel)]="password" 
+                #passwordField="ngModel"
+                required 
+                minlength="8">
+            <div *ngIf="passwordField.touched && passwordField.invalid">
+                <div *ngIf="passwordField.errors?.['required']" class="error-message">
+                    Password is required.
+                </div>
+                <div *ngIf="passwordField.errors?.['minlength']" class="error-message">
+                    Password must be at least 8 characters long.
+                </div>
+            </div>
+        </div>
+        <div *ngIf="errorMessage" class="error-message">
+            {{ errorMessage }}
+        </div>
+        <button type="submit" class="btn-login" [disabled]="loginForm.invalid">Login</button>
+    </form>
+</div>

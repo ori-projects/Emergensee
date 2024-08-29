@@ -1,0 +1,80 @@
+/* Reset styles */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/* Global styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa; /* Light grayish blue */
+}
+
+.login-container {
+    max-width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Soft shadow */
+    text-align: center;
+}
+
+h2 {
+    margin-bottom: 20px;
+    color: #333; /* Dark gray */
+}
+
+.favicon {
+    width: 150px;
+    height: 100px;
+    margin-bottom: 20px;
+}
+
+.form-group {
+    margin-bottom: 20px;
+    text-align: left;
+}
+
+label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+    color: #555; /* Medium gray */
+}
+
+input[type="email"],
+input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc; /* Light gray */
+    border-radius: 5px;
+    outline: none;
+}
+
+button.btn-login {
+    width: 100%;
+    padding: 10px;
+    background-color: #5DBA5D; /* Blue */
+    border: none;
+    border-radius: 5px;
+    color: #fff; /* White */
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+button.btn-login:hover {
+    background-color: #4A9B4A; /* Darker blue on hover */
+}
+
+.btn-login {
+    margin-top: 10px; /* Adjust the margin as needed */
+}
+
+.error-message {
+    color: red;
+    font-size: 14px;
+    margin-top: 5px;
+}

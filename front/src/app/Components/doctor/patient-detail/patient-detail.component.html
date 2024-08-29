@@ -1,0 +1,114 @@
+<div class="patient-detail-container" *ngIf="selectedPatient">
+    <div class="row">
+        <div class="col-xs-12">
+            <h2>Patient Details</h2>
+            <ng-container *ngIf="isNewPatient">
+                <img [src]="imagePreviewUrl" class="img-responsive">
+              </ng-container>
+              
+              <ng-container *ngIf="!isNewPatient">
+                <img img [src]="'data:image/jpeg;base64,' + selectedPatient?.imagePath" alt="{{selectedPatient?.name}}" class="img-responsive">
+              </ng-container>
+            </div>
+    </div><br/><br/>
+    <div class="row">
+        <div class="col-xs-12">
+            <form (ngSubmit)="isNewPatient ? saveNewPatient() : toggleDetails()">
+                <div class="form-group" *ngIf="isNewPatient">
+                    <label for="patientImage" class="custom-file-upload">
+                        Upload Patient Image
+                    </label>
+                    <input type="file" id="patientImage" (change)="handleFileInput($event)" accept="image/jpeg">
+                </div>
+                <div class="form-group">
+                    <label for="patientName">Patient Name:</label>
+                    <input type="text" class="form-control" id="patientName" [(ngModel)]="selectedPatient.name" name="name">
+                </div>
+                <div class="form-group">
+                    <label for="email">Email:</label>
+                    <input type="email" class="form-control" id="email" [(ngModel)]="selectedPatient.email" name="email">
+                </div>
+                <div class="form-group">
+                    <label for="phone">Phone Number:</label>
+                    <input type="tel" class="form-control" id="phone" [(ngModel)]="selectedPatient.phoneNumber" name="phoneNumber">
+                </div>
+                <div class="form-group">
+                    <label for="age">Age:</label>
+                    <input type="number" class="form-control" id="age" [(ngModel)]="selectedPatient.age" name="age">
+                </div>
+                <button *ngIf="isNewPatient || (!isNewPatient && !showDetails)" class="btn btn-primary" type="submit">
+                    {{ isNewPatient ? 'Save New Patient' : 'Toggle Medical Information' }}
+                </button>
+                <br/><br/>
+
+                <!-- Conditional section for medical details -->
+                <div *ngIf="showDetails">
+                    <div class="form-group">
+                        <label for="bloodPressure">Blood Pressure:</label>
+                        <input type="text" class="form-control" id="bloodPressure" [(ngModel)]="selectedPatient.bloodPressure" name="bloodPressure">
+                    </div>
+                    <div class="form-group">
+                        <label for="bloodSugar">Blood Sugar:</label>
+                        <input type="text" class="form-control" id="bloodSugar" [(ngModel)]="selectedPatient.bloodSugar" name="bloodSugar">
+                    </div>
+                    <div class="form-group">
+                        <label for="procedureCount">Procedure Count:</label>
+                        <input type="text" class="form-control" id="procedureCount" [(ngModel)]="selectedPatient.procedureCount" name="procedureCount">
+                    </div>
+                    <div class="form-group">
+                        <label for="infectionsReported">Infections Reported:</label>
+                        <input type="text" class="form-control" id="infectionsReported" [(ngModel)]="selectedPatient.infectionsReported" name="infectionsReported">
+                    </div>
+                    <div class="form-group">
+                        <label for="bodyTemperature">Body Temperature:</label>
+                        <input type="text" class="form-control" id="bodyTemperature" [(ngModel)]="selectedPatient.bodyTemperature" name="bodyTemperature">
+                    </div>
+                    <div class="form-group">
+                        <label for="heartRate">Heart Rate:</label>
+                        <input type="text" class="form-control" id="heartRate" [(ngModel)]="selectedPatient.heartRate" name="heartRate">
+                    </div>
+                    <div class="separator"></div>
+                    <br/><br/>
+                    <div class="form-group">
+                        <label for="operativeProcedure">Operative Procedure:</label>
+                        <select class="form-control" id="operativeProcedure" [(ngModel)]="selectedPatient.operativeProcedure" name="operativeProcedure">
+                            <option value="" selected disabled>Please select</option>
+                            <option *ngFor="let option of operativeProcedureOptions" [value]="option">{{ option }}</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label for="feelingsAndUrge">Emotions and Impulse:</label>
+                        <select class="form-control" id="feelingsAndUrge" [(ngModel)]="selectedPatient.feelingsAndUrge" name="feelingsAndUrge">
+                            <option value="" selected disabled>Please select</option>
+                            <option *ngFor="let option of feelingsAndUrgeOptions" [value]="option">{{ option }}</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label for="criticalFeelings">Critical Feelings:</label>
+                        <select class="form-control" id="criticalFeelings" [(ngModel)]="selectedPatient.criticalFeelings" name="criticalFeelings">
+                            <option value="" selected disabled>Please select</option>
+                            <option *ngFor="let option of criticalFeelingsOptions" [value]="option">{{ option }}</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label for="disease">Known Disease:</label>
+                        <select class="form-control" id="disease" [(ngModel)]="selectedPatient.disease" name="disease">
+                            <option value="" selected disabled>Please select</option>
+                            <option *ngFor="let option of diseaseOptions" [value]="option">{{ option }}</option>
+                        </select>
+                    </div>
+                    <div *ngIf="waiting" class="waiting-animation">
+                        <div class="spinner-border text-primary" role="status">
+                            <span class="sr-only">Calculating...</span>
+                        </div>
+                        <p>Calculating...</p>
+                    </div>
+                    <div class="button-container">
+                        <button mat-raised-button color="primary" (click)="openRankingModal()">Rank</button>
+                        <button mat-raised-button color="primary" type="submit" [disabled]="waiting" (click)="submitForm()">Submit</button>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

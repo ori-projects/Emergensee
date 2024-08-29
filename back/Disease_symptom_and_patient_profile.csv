@@ -1,0 +1,101 @@
+Disease,Fever,Cough,Fatigue,Difficulty Breathing,Age,Blood Pressure,Outcome
+Influenza,Yes,No,Yes,Yes,19,85,Positive
+Common Cold,No,Yes,Yes,No,25,110,Negative
+Eczema,No,Yes,Yes,No,25,110,Negative
+Asthma,Yes,Yes,No,Yes,25,110,Positive
+Asthma,Yes,Yes,No,Yes,25,110,Positive
+Eczema,Yes,No,No,No,25,110,Positive
+Influenza,Yes,Yes,Yes,Yes,25,110,Positive
+Influenza,Yes,Yes,Yes,Yes,25,110,Positive
+Hyperthyroidism,No,Yes,No,No,28,110,Negative
+Hyperthyroidism,No,Yes,No,No,28,110,Negative
+Asthma,Yes,No,No,Yes,28,129,Positive
+Allergic Rhinitis,No,Yes,Yes,No,29,110,Negative
+Anxiety Disorders,No,Yes,No,No,29,110,Negative
+Common Cold,No,No,No,No,29,85,Negative
+Diabetes,No,No,No,No,29,85,Negative
+Gastroenteritis,No,Yes,No,No,29,110,Negative
+Pancreatitis,Yes,No,No,No,29,129,Negative
+Rheumatoid Arthritis,No,Yes,Yes,Yes,29,129,Negative
+Depression,Yes,Yes,Yes,Yes,29,129,Positive
+Liver Cancer,Yes,Yes,Yes,Yes,29,110,Positive
+Stroke,Yes,Yes,Yes,Yes,29,110,Positive
+Urinary Tract Infection,Yes,Yes,Yes,No,29,129,Positive
+Dengue Fever,Yes,No,Yes,No,30,110,Negative
+Dengue Fever,Yes,No,Yes,No,30,110,Negative
+Eczema,No,Yes,Yes,No,30,129,Negative
+Gastroenteritis,Yes,Yes,Yes,No,30,129,Negative
+Hepatitis,Yes,Yes,Yes,Yes,30,129,Negative
+Kidney Cancer,No,No,Yes,No,30,110,Negative
+Migraine,Yes,No,No,No,30,110,Negative
+Migraine,No,Yes,Yes,No,30,110,Negative
+Muscular Dystrophy,No,No,Yes,No,30,129,Negative
+Sinusitis,No,Yes,Yes,No,30,110,Negative
+Ulcerative Colitis,Yes,Yes,No,No,30,110,Negative
+Ulcerative Colitis,No,Yes,Yes,No,30,110,Negative
+Asthma,Yes,Yes,No,Yes,30,110,Positive
+Asthma,Yes,Yes,No,Yes,30,110,Positive
+Asthma,Yes,Yes,Yes,Yes,30,110,Positive
+Bipolar Disorder,No,No,Yes,No,30,129,Positive
+Bronchitis,Yes,Yes,No,Yes,30,85,Positive
+Bronchitis,Yes,Yes,Yes,Yes,30,129,Positive
+Bronchitis,Yes,Yes,Yes,Yes,30,129,Positive
+Cerebral Palsy,No,No,Yes,Yes,30,110,Positive
+Colorectal Cancer,No,No,Yes,No,30,110,Positive
+Eczema,Yes,No,No,No,30,129,Positive
+Hypertensive Heart Disease,No,No,Yes,No,30,129,Positive
+Influenza,Yes,Yes,Yes,No,30,129,Positive
+Influenza,Yes,Yes,Yes,Yes,30,110,Positive
+Multiple Sclerosis,No,No,Yes,No,30,129,Positive
+Myocardial Infarction (Heart...,Yes,Yes,Yes,Yes,30,129,Positive
+Urinary Tract Infection (UTI),Yes,No,No,No,30,110,Positive
+Asthma,No,No,No,Yes,31,110,Negative
+Osteoporosis,No,No,No,Yes,31,85,Negative
+Common Cold,Yes,No,Yes,Yes,31,129,Positive
+Migraine,Yes,No,No,No,31,110,Positive
+Pneumonia,Yes,No,Yes,Yes,32,129,Positive
+Allergic Rhinitis,No,No,Yes,No,35,110,Negative
+Asthma,No,Yes,Yes,Yes,35,110,Negative
+Asthma,Yes,Yes,Yes,Yes,35,110,Negative
+Asthma,No,Yes,Yes,Yes,35,129,Negative
+Asthma,No,Yes,Yes,Yes,35,129,Negative
+Atherosclerosis,No,No,Yes,No,35,110,Negative
+Chronic Obstructive Pulmonary...,Yes,Yes,Yes,Yes,35,110,Negative
+Common Cold,Yes,Yes,Yes,No,35,129,Negative
+Eczema,No,Yes,No,No,35,129,Negative
+Epilepsy,No,No,Yes,No,35,129,Negative
+Hypertension,Yes,Yes,Yes,No,35,129,Negative
+Hyperthyroidism,Yes,Yes,Yes,No,35,110,Negative
+Obsessive-Compulsive Disorde...,No,No,Yes,No,35,110,Negative
+Pneumonia,Yes,Yes,Yes,Yes,35,110,Negative
+Pneumonia,Yes,Yes,Yes,Yes,35,110,Negative
+Psoriasis,Yes,No,No,No,35,110,Negative
+Psoriasis,No,Yes,Yes,No,35,110,Negative
+Rubella,Yes,No,Yes,No,35,129,Negative
+Rubella,Yes,No,Yes,No,35,129,Negative
+Urinary Tract Infection (UTI),No,Yes,Yes,No,35,129,Negative
+Asthma,Yes,Yes,No,Yes,35,110,Positive
+Asthma,Yes,Yes,No,Yes,35,110,Positive
+Cirrhosis,No,No,Yes,No,35,110,Positive
+Conjunctivitis (Pink Eye),No,Yes,No,No,35,129,Positive
+Depression,No,No,Yes,No,35,110,Positive
+Gastroenteritis,Yes,No,Yes,Yes,35,85,Positive
+Hyperthyroidism,Yes,Yes,Yes,No,35,129,Positive
+Hyperthyroidism,Yes,Yes,Yes,No,35,129,Positive
+Kidney Cancer,No,No,Yes,No,35,129,Positive
+Liver Cancer,No,No,Yes,No,35,129,Positive
+Liver Disease,No,No,Yes,No,35,129,Positive
+Malaria,Yes,No,No,No,35,129,Positive
+Malaria,Yes,No,No,No,35,129,Positive
+Migraine,No,Yes,Yes,No,35,129,Positive
+Migraine,Yes,No,No,No,35,129,Positive
+Pancreatitis,No,No,Yes,No,35,110,Positive
+Rheumatoid Arthritis,Yes,Yes,Yes,No,35,110,Positive
+Rheumatoid Arthritis,No,No,Yes,No,35,110,Positive
+Spina Bifida,No,No,Yes,No,35,110,Positive
+Ulcerative Colitis,No,No,Yes,No,35,129,Positive
+Ulcerative Colitis,Yes,No,No,No,35,129,Positive
+Urinary Tract Infection,Yes,No,Yes,No,35,110,Positive
+Allergic Rhinitis,No,Yes,No,No,38,85,Negative
+Depression,No,No,No,No,38,110,Negative
+Gastroenteritis,No,No,No,No,38,110,Negative

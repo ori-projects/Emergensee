@@ -1,0 +1,6 @@
+<div *ngIf="selectedModel">
+  <h2 (input)="selectedModel.name = $event.target.textContent">{{ selectedModel.name }}</h2>
+  <label>Type: </label>
+  <p>{{ selectedModel.type}}</p>
+</div>
+<p *ngIf="!selectedModel">No model selected.</p>

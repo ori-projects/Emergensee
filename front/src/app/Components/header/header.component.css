@@ -1,0 +1,46 @@
+.navbar-right {
+    margin-right: 10px; /* Adjust the value as needed */
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.navbar-text {
+    margin-right: 10px; /* Adjust the value as needed */
+    color: white;
+}
+
+.navbar {
+    width: 100%; /* Make the navbar take up 100% width */
+    position: relative; /* Make the navbar a positioning context */
+    background-color: #5DBA5D;
+}
+
+.navbar-brand {
+    color: white;
+}
+
+.profile-circle {
+    display: flex;
+    align-items: center; /* Center vertically */
+    width: 40px; /* Adjust as needed */
+    border-radius: 50%;
+    overflow: hidden;
+    position: absolute;
+    top: 5px; /* Adjust based on navbar height and desired positioning */
+    right: 20px; /* Adjust based on desired positioning */
+    padding: 5px; /* Add padding */
+}
+
+.profile-image {
+    width: 100%;
+    height: 100%;
+}
+
+.dropdown-menu {
+    margin-top: 10px; /* Adjust the margin as needed */
+}
+
+.dropdown-menu li {
+    text-align: center; /* Center the list items */
+}

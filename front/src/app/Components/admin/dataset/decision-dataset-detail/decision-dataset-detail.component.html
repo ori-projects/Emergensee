@@ -1,0 +1,31 @@
+<div class="row" *ngIf="selecteddataset">
+    <div class="col-xs-12">
+      <h1 contenteditable="true" (input)="selecteddataset.name = $event.target.textContent" id="datasetName">
+        {{selecteddataset?.dataset_name}}
+      </h1>
+    </div>
+  </div>
+  <div class="row" *ngIf="selecteddataset">
+    <div class="col-xs-12">
+      <label for="numberOfLines">Number Of Rows:</label>
+      <p id="numberOfLines">{{selecteddataset?.number_of_lines}}</p>
+    </div>
+  </div>
+  <div class="row" *ngIf="selecteddataset">
+    <div class="col-xs-12">
+      <label for="relativeWeight">Relative Weight</label>
+      <p id="relativeWeight">{{selecteddataset?.relative_weight}}</p>
+    </div>
+  </div>
+  <div class="row" *ngIf="selecteddataset">
+    <div class="col-xs-12">
+      <label>Models:</label>
+      <ul class="no-list-style">
+        <li *ngFor="let model of selecteddataset?.models" style="margin-bottom: 10px;">
+          <button class="btn-custom" (click)="showModelDetails(model)">{{ model.name }}</button> 
+        </li>
+      </ul>
+      <app-mlmodel-detail *ngIf="selectedModel" [selectedModel]="selectedModel" #content></app-mlmodel-detail>
+    </div>
+  </div>
+  

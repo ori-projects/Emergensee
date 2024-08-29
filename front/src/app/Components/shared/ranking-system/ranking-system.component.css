@@ -1,0 +1,39 @@
+h3 {
+    font-weight: bold;
+}
+
+
+input[type="number"] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc; /* Light gray */
+    border-radius: 5px;
+    outline: none;
+}
+
+
+button {
+    width: 100%;
+    background-color: #5DBA5D;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: #4aa64a;
+}
+
+.button-container {
+    display: flex;
+    justify-content: space-between; /* Adjusts space between the buttons */
+    margin-top: 20px; /* Adds some space above the button container */
+}
+
+.button-container button {
+    flex: 1; /* Makes each button take equal space */
+    margin: 0 10px; /* Adds margin to the left and right of each button */
+}

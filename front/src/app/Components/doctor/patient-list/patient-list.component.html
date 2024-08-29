@@ -1,0 +1,32 @@
+<div class="patient-list-container">
+    <!-- Title Row -->
+    <div class="row">
+        <div class="col-xs-12">
+            <h2>Patients List</h2>
+        </div>
+    </div>
+    <!-- Filter and Button Row -->
+    <div class="row">
+        <div class="col-xs-6">
+            <input type="text" class="form-control" placeholder="Filter by name..." [(ngModel)]="filterText" (input)="filterPatients()">
+        </div>
+        <div class="col-xs-6 text-right">
+            <button class="btn btn-success mb-3" (click)="CreateNewPatient()">New Patient</button>
+        </div>
+    </div>
+    <!-- Patients List -->
+    <div class="list-group" style="margin-top: 20px;">
+        <a *ngFor="let patient of filteredPatients" 
+           class="list-group-item clearfix" 
+           (click)="onSelectPatient(patient)"
+           [class.selected]="selectedPatient === patient">
+            <div class="pull-left">
+                <h3 class="list-group-item-heading">{{patient.name}}</h3>
+                <p class="list-group-item-text">{{patient.phoneNumber}}</p>
+            </div>
+            <span class="pull-right">
+                <img [src]="'data:image/jpeg;base64,' + patient?.imagePath" alt="{{patient.name}}" class="img-thumbnail">
+            </span>
+        </a>
+    </div>
+</div>

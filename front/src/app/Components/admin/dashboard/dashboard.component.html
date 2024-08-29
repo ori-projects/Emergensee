@@ -1,0 +1,15 @@
+<div class="container">
+    <div class="endpoints-list">
+        <h2>Endpoints List</h2>
+        <ul>
+            <li *ngFor="let endpoint of endpoints" (click)="selectEndpoint(endpoint)">
+                {{ endpoint.name }} <span class="status" [ngClass]="{'operational': endpoint.status === 'Operational', 'under-maintenance': endpoint.status === 'Under Maintenance', 'down': endpoint.status === 'Down'}">{{ endpoint.status }}</span>
+            </li>
+        </ul>
+    </div>
+    <div class="endpoint-details" *ngIf="selectedEndpoint">
+        <h2>Endpoint Details</h2>
+        <p><strong>Endpoint:</strong> {{ selectedEndpoint.name }}</p>
+        <p><strong>Status:</strong> <span class="status" [ngClass]="{'operational': selectedEndpoint.status === 'Operational', 'under-maintenance': selectedEndpoint.status === 'Under Maintenance', 'down': selectedEndpoint.status === 'Down'}">{{ selectedEndpoint.status }}</span></p>
+    </div>
+</div>
